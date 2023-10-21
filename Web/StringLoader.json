@@ -1,57 +1,27 @@
-[
-  {
-    "name": "Role 6",
-    "id": "1052776412857237595",
-    "members": [
-      "jambarero/HelS",
-      "Ari Gold",
-      "vesturo",
-      "cloudsave",
-      "ALASKY"
-    ],
-    "priority": 1
-  },
-  {
-    "name": "Role 5",
-    "id": "1162037195121635328",
-    "members": [],
-    "priority": 2
-  },
-  {
-    "name": "Role 4",
-    "id": "1131717341072326666",
-    "members": [
-      "lordm8yt"
-    ],
-    "priority": 3
-  },
-  {
-    "name": "Role 3",
-    "id": "1057649953532555374",
-    "members": [
-      "Thyrador | SXN",
-      "oceanis"
-    ],
-    "priority": 4
-  },
-  {
-    "name": "Role 2",
-    "id": "1035940842508124200",
-    "members": [],
-    "priority": 5
-  },
-  {
-    "name": "Role 1",
-    "id": "1030617208457547806",
-    "members": [
-      "aquav0dka",
-      "ThePsych0",
-      "Kyūso",
-      "Starry-Owl",
-      "DJ Jigsaw",
-      ".metamike",
-      "DJ-KIFO"
-    ],
-    "priority": 6
-  }
-]
+{
+  "Role 6": [
+    "jambarero/HelS",
+    "Ari Gold",
+    "vesturo",
+    "cloudsave",
+    "ALASKY"
+  ],
+  "Role 5": [],
+  "Role 4": [
+    "lordm8yt"
+  ],
+  "Role 3": [
+    "Thyrador | SXN",
+    "oceanis"
+  ],
+  "Role 2": [],
+  "Role 1": [
+    "aquav0dka",
+    "ThePsych0",
+    "Kyūso",
+    "Starry-Owl",
+    "DJ Jigsaw",
+    ".metamike",
+    "DJ-KIFO"
+  ]
+}
