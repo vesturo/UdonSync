@@ -1,0 +1,12 @@
+{
+    "Deluge": {
+        "IsOpen": true,
+        "IsMultiInstancing": false,
+        "IsUsingDMX": false
+    },
+    "HoloMaster": {
+        "IsOpen": true,
+        "IsMultiInstancing": true,
+        "IsUsingDMX": true
+    }
+}
