@@ -7,7 +7,7 @@
     "Rift-ProjectHolo": {
         "IsOpen": true,
         "IsMultiInstancing": true,
-        "IsUsingDMX": true,
+        "IsUsingDMX": false,
         "ActiveScene": "1"
     }
 }
