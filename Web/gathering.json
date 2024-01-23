@@ -13,6 +13,7 @@
         "Puppet3Active":false,
         "Puppet3User":"VRCUSERNAME",
         "Puppet3Puppet":1,
+        "Puppets":"1=Myriad,2=Ministry",
         "Announcement":"Test"
     },
     "GreenroomAcess": [
