@@ -1,21 +1,21 @@
 {
     "WorldUpdater": {
-        "IsOpen": true,
-        "ActiveStage": 1,
+        "IsOpen": false,
+        "ActiveStage": 3,
         "Stages":" 1=Main, 2=Cozy, 3=Underground",
         "UpNext":"TO BE ANNOUNCED",
-        "Puppet1Active":false,
+        "Puppet1Active":true,
         "Puppet1User":"VRCUSERNAME",
-        "Puppet1Puppet":1,
-        "Puppet2Active":false,
+        "Puppet1Puppet":2,
+        "Puppet2Active":true,
         "Puppet2User":"VRCUSERNAME",
         "Puppet2Puppet":1,
-        "Puppet3Active":false,
+        "Puppet3Active":true,
         "Puppet3User":"VRCUSERNAME",
-        "Puppet3Puppet":1,
+        "Puppet3Puppet":2,
         "Puppets":"1=Myriad,2=Ministry",
         "Announcement":"Test",
-        "DayNightCycle":12
+        "DayNightCycle":6
     },
     "GreenroomAcess": [
     "jambarero",
