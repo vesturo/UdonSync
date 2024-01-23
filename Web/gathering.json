@@ -14,7 +14,8 @@
         "Puppet3User":"VRCUSERNAME",
         "Puppet3Puppet":1,
         "Puppets":"1=Myriad,2=Ministry",
-        "Announcement":"Test"
+        "Announcement":"Test",
+        "DayNightCycle":12
     },
     "GreenroomAcess": [
     "jambarero",
