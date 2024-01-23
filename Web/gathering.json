@@ -1,0 +1,25 @@
+{
+    "WorldUpdater": {
+        "IsOpen": true,
+        "ActiveStage": 1,
+        "Stages":" 1=Main, 2=Cozy, 3=Underground",
+        "UpNext":"TO BE ANNOUNCED",
+        "Puppet1Active":false,
+        "Puppet1User":"VRCUSERNAME",
+        "Puppet1Puppet":1,
+        "Puppet2Active":false,
+        "Puppet2User":"VRCUSERNAME",
+        "Puppet2Puppet":1,
+        "Puppet3Active":false,
+        "Puppet3User":"VRCUSERNAME",
+        "Puppet3Puppet":1,
+        "Announcement":"Test"
+    },
+    "GreenroomAcess": [
+    "jambarero",
+    "Ari Gold",
+    "Vesturo",
+    "cloudsave",
+    "Аlasky"
+  ]
+}
