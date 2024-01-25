@@ -3,9 +3,9 @@
         "IsOpen": true,
         "ActiveStage": 1,
         "Stages":" 1=Main, 2=Cozy, 3=Underground",
-        "UpNext":"TO BE ANNOUNCED",
-        "Puppet1Active":false,
-        "Puppet1User":"AztecAngelo",
+        "UpNext":"Merlz",
+        "Puppet1Active":true,
+        "Puppet1User":"xkmerlz",
         "Puppet1Puppet":2,
         "Puppet2Active":true,
         "Puppet2User":"Vesturo",
@@ -14,8 +14,8 @@
         "Puppet3User":"Focus",
         "Puppet3Puppet":2,
         "Puppets":"1=Myriad,2=Ministry",
-        "Announcement":"Welcome to the Gathering!",
-        "DayNightCycle":18
+        "Announcement":"Merlz is smelly!",
+        "DayNightCycle":23
     },
     "GreenroomAcess": [
     "jambarero",
