@@ -1,7 +1,7 @@
 {
     "WorldUpdater": {
         "IsOpen": true,
-        "ActiveStage": 3,
+        "ActiveStage": 2,
         "Stages":" 1=Village, 2=Mine, 3=Ship",
         "MultiInstanceBot":"Vesturo",
         "CameraBot":"MyriadVR",
