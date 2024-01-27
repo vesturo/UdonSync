@@ -3,7 +3,7 @@
         "IsOpen": true,
         "ActiveStage": 1,
         "Stages":" 1=Main, 2=Cozy, 3=Underground",
-        "MultiInstanceBot":"MyriadVR,
+        "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Vesturo".
         "UpNext":"Merlz",
         "Puppet1Active":true,
