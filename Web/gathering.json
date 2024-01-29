@@ -1,7 +1,7 @@
 {
     "WorldUpdater": {
         "IsOpen": true,
-        "ActiveStage": 2,
+        "ActiveStage": 3,
         "Stages":" 1=Village, 2=Mine, 3=Ship",
         "MultiInstanceBot":"Vesturo",
         "CameraBot":"MyriadVR",
@@ -17,7 +17,7 @@
         "Puppet3Puppet":2,
         "Puppets":"1=Myriad,2=Ministry",
         "Announcement":"Merlz is smelly!",
-        "DayNightCycle":22
+        "DayNightCycle":8
     },
     "GreenroomAcess": [
     "jambarero",
