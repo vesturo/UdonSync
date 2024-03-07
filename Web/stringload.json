@@ -1,0 +1,46 @@
+{
+    "WorldPermissionLevels": {
+        "Staff": [],
+        "Whale": [],
+        "Hero": [],
+        "Supporter": [],
+        "Homie": [],
+        "VIP": []
+    },
+    "GlobalSettings": {
+        "Metro": {
+            "VenuePermissionLevels": {
+                "Staff": [],
+                "Artist": [],
+                "Dancer": []
+            },
+            "VenueSettings": {
+                "PublicUsage": true,
+                "DigitalMultiPlex": false,
+                "MultiInstancing": false,
+                "Puppets": {
+                    "Puppet1State": false,
+                    "Puppet1User": "Test",
+                    "Puppet1Puppet": 1,
+                    "Puppet2State": false,
+                    "Puppet2User": "Test",
+                    "Puppet2Puppet": 1,
+                    "Puppet3State": false,
+                    "Puppet3User": "Test",
+                    "Puppet3Puppet": 1
+                }
+            }
+        },
+        "Deluge": [],
+        "MetalRoom": [],
+        "Apartments": {
+            "Apartment 1": {
+                "Access": [
+                    "Vesturo",
+                    "ChaikaRaven",
+                    "GREENELIXR"
+                ]
+            }
+        }
+    }
+}
