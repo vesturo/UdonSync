@@ -17,7 +17,9 @@
             "VenueSettings": {
                 "PublicUsage": true,
                 "DigitalMultiPlex": false,
+                "DigitalMultiPlexUser":"ExampleUser",
                 "MultiInstancing": false,
+                "MultiInstancingUser":"ExampleUser",
                 "Puppets": {
                     "Puppet1State": false,
                     "Puppet1User": "Test",
@@ -39,6 +41,11 @@
                     "Vesturo",
                     "ChaikaRaven",
                     "GREENELIXR"
+                ],
+                "MovieLibraryAccess": [
+                    true,
+                    false,
+                    false
                 ]
             }
         }
