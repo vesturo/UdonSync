@@ -8,6 +8,10 @@
         "VIP": []
     },
     "GlobalSettings": {
+        "MainColorTheme":"FFFFFF",
+        "SecondaryColorTheme":"FFFFFF",
+        "ThirtyiaryColorTheme":"FFFFFF",
+        "fourthColorTheme":"FFFFFFF",
         "Metro": {
             "VenuePermissionLevels": {
                 "Staff": [],
