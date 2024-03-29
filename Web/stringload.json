@@ -37,8 +37,8 @@
         "MetalRoom": [],
         "Apartments": {
             "Apartment 1": {
+                "Owner":"Vesturo",
                 "Access": [
-                    "Vesturo",
                     "ChaikaRaven",
                     "GREENELIXR"
                 ],
