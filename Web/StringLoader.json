@@ -1,5 +1,6 @@
 {
-  "Staff": [
+  "WorldPermissionLevels": {
+    "Staff": [
     "jambarero",
     "Ari Gold",
     "Vesturo",
@@ -25,4 +26,5 @@
     "DJ Jigsaw",
     ".metamike"
   ]
+  }
 }
