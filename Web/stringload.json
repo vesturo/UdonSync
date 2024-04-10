@@ -22,13 +22,19 @@
       "Example Patreon Supporter // ???"
     ]
   },
+  "GlobalNotification": {
+    "ShowGlobalNotification":true,
+    "Timestamp":"1712743920",
+    "Message":"There is currently an Multi-instance compatibleevent going on in VENUE!"
+  },
   "GlobalThemeColors": {
+    "OverrideVenueThemeColors":true,
     "MainColorTheme": "FFFFFF",
     "SecondaryColorTheme": "FFFFFF",
     "ThirtyiaryColorTheme": "FFFFFF",
     "fourthColorTheme": "FFFFFFF"
   },
-  "GlobalSettings": {
+  "AreaSettings": {
     "Metro": {
       "VenuePermissionLevels": {
         "Staff": [
