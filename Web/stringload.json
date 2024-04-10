@@ -132,20 +132,42 @@
       }
     },
     "Apartments": {
-      "Apartment 1": {
+      "Apartment 0 - Vee": {
         "Owner": "Example Owner",
         "Access": {
           "0": {
-            "Username": "Example User",
+            "Username": "Example User 1",
+            "AllowSpawning": false,
+            "InviteAccess": true
+          },
+          "1": {
+            "Username": "Example User 2",
+            "AllowSpawning": false,
+            "InviteAccess": true
+          },
+          "2": {
+            "Username": "Example User 3",
+            "AllowSpawning": false,
             "InviteAccess": true
           }
         }
       },
-      "Apartment 2": {
+      "Apartment 1 - unclaimed": {
         "Owner": "Example Owner",
         "Access": {
           "0": {
             "Username": "Example User",
+            "AllowSpawning": false,
+            "AllowInvite": true
+          },
+          "1": {
+            "Username": "Example User 2",
+            "AllowSpawning": false,
+            "InviteAccess": true
+          },
+          "2": {
+            "Username": "Example User 3",
+            "AllowSpawning": false,
             "InviteAccess": true
           }
         }
