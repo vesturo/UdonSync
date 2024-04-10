@@ -1,67 +1,149 @@
 {
-    "WorldPermissionLevels": {
+  "GlobalRanks": {
+    "Staff": [
+      "Example Staff Member // Global Access"
+    ],
+    "Media": [
+      "Example Media Member // Global Access"
+    ],
+    "Whale": [
+      "Example Patreon Supporter // ???"
+    ],
+    "Hero": [
+      "Example Patreon Supporter // ???"
+    ],
+    "Supporter": [
+      "Example Patreon Supporter // ???"
+    ],
+    "Homie": [
+      "Example Patreon Supporter // ???"
+    ],
+    "VIP": [
+      "Example Patreon Supporter // ???"
+    ]
+  },
+  "GlobalThemeColors": {
+    "MainColorTheme": "FFFFFF",
+    "SecondaryColorTheme": "FFFFFF",
+    "ThirtyiaryColorTheme": "FFFFFF",
+    "fourthColorTheme": "FFFFFFF"
+  },
+  "GlobalSettings": {
+    "Metro": {
+      "VenuePermissionLevels": {
         "Staff": [
-    "jambarero",
-    "Ari Gold",
-    "Vesturo",
-    "cloudsave",
-    "Аlasky",
-    "Llamahat"
-  ]
-    },
-    "GlobalSettings": {
-        "ThemeColors": {
-                "MainColorTheme":"FFFFFF",
-                "SecondaryColorTheme":"FFFFFF",
-                "ThirtyiaryColorTheme":"FFFFFF",
-                "fourthColorTheme":"FFFFFFF",
-        },
-        "Metro": {
-            "VenuePermissionLevels": {
-                "Staff": [],
-                "Artist": [],
-                "Dancer": []
-            },
-            "ThemeColors": {
-                "MainColorTheme":"FFFFFF",
-                "SecondaryColorTheme":"FFFFFF",
-                "ThirtyiaryColorTheme":"FFFFFF",
-                "fourthColorTheme":"FFFFFFF",
-            },
-            "VenueSettings": {
-                "PublicUsage": true,
-                "DigitalMultiPlex": false,
-                "DigitalMultiPlexUser":"ExampleUser",
-                "MultiInstancing": false,
-                "MultiInstancingUser":"ExampleUser",
-                "Puppets": {
-                    "Puppet1State": false,
-                    "Puppet1User": "Test",
-                    "Puppet1Puppet": 1,
-                    "Puppet2State": false,
-                    "Puppet2User": "Test",
-                    "Puppet2Puppet": 1,
-                    "Puppet3State": false,
-                    "Puppet3User": "Test",
-                    "Puppet3Puppet": 1
-                }
-            }
-        },
-        "Deluge": [],
-        "MetalRoom": [],
-        "Apartments": {
-            "Apartment 1": {
-                "Owner":"Vesturo",
-                "Access": [
-                    "ChaikaRaven",
-                    "GREENELIXR"
-                ],
-                "MovieLibraryAccess": [
-                    true,
-                    false,
-                    false
-                ]
-            }
+          "Example Staff Member // Ability to log in other people"
+        ]
+      },
+      "VenueThemeColors": {
+        "MainColorTheme": "FFFFFF",
+        "SecondaryColorTheme": "FFFFFF",
+        "ThirtyiaryColorTheme": "FFFFFF",
+        "fourthColorTheme": "FFFFFFF"
+      },
+      "VenueSettings": {
+        "DigitalMultiPlex": false,
+        "MultiInstancing": false,
+        "MultiInstancingBot": "ExampleUser",
+        "Puppets": {
+          "Puppet1State": false,
+          "Puppet1User": "Test",
+          "Puppet1Puppet": 1,
+          "Puppet2State": false,
+          "Puppet2User": "Test",
+          "Puppet2Puppet": 1,
+          "Puppet3State": false,
+          "Puppet3User": "Test",
+          "Puppet3Puppet": 1,
+          "Puppet4State": false,
+          "Puppet4User": "Test",
+          "Puppet4Puppet": 1
         }
+      }
+    },
+    "Deluge": {
+      "VenuePermissionLevels": {
+        "Staff": [
+          "Example Staff Member // Ability to log in other people"
+        ]
+      },
+      "VenueThemeColors": {
+        "MainColorTheme": "FFFFFF",
+        "SecondaryColorTheme": "FFFFFF",
+        "ThirtyiaryColorTheme": "FFFFFF",
+        "fourthColorTheme": "FFFFFFF"
+      },
+      "VenueSettings": {
+        "DigitalMultiPlex": false,
+        "MultiInstancing": false,
+        "MultiInstancingBot": "ExampleUser",
+        "Puppets": {
+          "Puppet1State": false,
+          "Puppet1User": "Test",
+          "Puppet1Puppet": 1,
+          "Puppet2State": false,
+          "Puppet2User": "Test",
+          "Puppet2Puppet": 1,
+          "Puppet3State": false,
+          "Puppet3User": "Test",
+          "Puppet3Puppet": 1,
+          "Puppet4State": false,
+          "Puppet4User": "Test",
+          "Puppet4Puppet": 1
+        }
+      }
+    },
+    "MetalRoom": {
+      "VenuePermissionLevels": {
+        "VenueStaff": [
+          "Example Staff Member // Ability to log in other people"
+        ]
+      },
+      "VenueThemeColors": {
+        "MainColorTheme": "FFFFFF",
+        "SecondaryColorTheme": "FFFFFF",
+        "ThirtyiaryColorTheme": "FFFFFF",
+        "fourthColorTheme": "FFFFFFF"
+      },
+      "VenueSettings": {
+        "DigitalMultiPlex": false,
+        "MultiInstancing": false,
+        "MultiInstancingBot": "ExampleUser",
+        "Puppets": {
+          "Puppet1State": false,
+          "Puppet1User": "Test",
+          "Puppet1Puppet": 1,
+          "Puppet2State": false,
+          "Puppet2User": "Test",
+          "Puppet2Puppet": 1,
+          "Puppet3State": false,
+          "Puppet3User": "Test",
+          "Puppet3Puppet": 1,
+          "Puppet4State": false,
+          "Puppet4User": "Test",
+          "Puppet4Puppet": 1
+        }
+      }
+    },
+    "Apartments": {
+      "Apartment 1": {
+        "Owner": "Example Owner",
+        "Access": {
+          "0": {
+            "Username": "Example User",
+            "InviteAccess": true
+          }
+        }
+      },
+      "Apartment 2": {
+        "Owner": "Example Owner",
+        "Access": {
+          "0": {
+            "Username": "Example User",
+            "InviteAccess": true
+          }
+        }
+      }
     }
-}
+    }
+  }
