@@ -1,7 +1,7 @@
 {
     "WorldUpdater": {
         "IsOpen": true,
-        "ActiveStage": 1,
+        "ActiveStage": 2,
         "Stages":" 1=Main, 2=Secondary, 3=third",
         "MultiInstanceBot":"NAN",
         "CameraBot":"NAN",
