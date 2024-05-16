@@ -4,7 +4,7 @@
         "ActiveStage": 2,
         "Stages":" 1=Main, 2=Secondary, 3=third || 1=upstairs, 2=downstairs",
         "MultiInstanceBot":"NAN",
-        "CameraBot":"NAN",
+        "CameraBot":"Diaphoresis",
         "UpNext":"TRNR",
         "Puppet1Active":false,
         "Puppet1User":"TRNR_",
