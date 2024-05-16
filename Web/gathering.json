@@ -1,22 +1,22 @@
 {
     "WorldUpdater": {
-        "IsOpen": false,
+        "IsOpen": true,
         "ActiveStage": 2,
         "Stages":" 1=Main, 2=Secondary, 3=third || 1=upstairs, 2=downstairs",
         "MultiInstanceBot":"NAN",
         "CameraBot":"NAN",
-        "UpNext":"Merlz",
+        "UpNext":"TRNR",
         "Puppet1Active":false,
-        "Puppet1User":"Theslythief",
+        "Puppet1User":"TRNR_",
         "Puppet1Puppet":1,
         "Puppets":"1 = TRNR_, 2 = medlish, 3 = Theslythief, 4 = n a k u",
         "Puppet2Active":false,
-        "Puppet2User":"Aquaman56",
+        "Puppet2User":"NAN",
         "Puppet2Puppet":1,
         "Puppet3Active":false,
-        "Puppet3User":"Constapatience",
+        "Puppet3User":"NAN",
         "Puppet3Puppet":1,
-        "Announcement":"Merlz is smelly!"
+        "Announcement":"Your adventure starts now!"
     },
     "GreenroomAcess": [
     "Vesturo",
