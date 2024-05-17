@@ -3,7 +3,7 @@
         "IsOpen": true,
         "ActiveStage": 1,
         "Stages":" 1=Main, 2=Secondary, 3=third || 1=upstairs, 2=downstairs",
-        "MultiInstanceBot":"MyriadVR",
+        "MultiInstanceBot":"Vesturo",
         "CameraBot":"Diaphoresis",
         "UpNext":"TRNR",
         "Puppet1Active":false,
