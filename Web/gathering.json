@@ -10,7 +10,7 @@
         "Puppet1User":"NAN",
         "Puppet1Puppet":5,
         "Puppets":"1 = TRNR_, 2 = medlish, 3 = Theslythief, 4 = n a k u, 5 = Empty",
-        "Puppet2Active":true,
+        "Puppet2Active":false,
         "Puppet2User":"NAN",
         "Puppet2Puppet":3,
         "PuppetsDancer":"1 = Ministry, 2 = Ministry 2, 3 = Empty",
