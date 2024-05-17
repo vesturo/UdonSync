@@ -1,7 +1,7 @@
 {
     "WorldUpdater": {
         "IsOpen": true,
-        "ActiveStage": 1,
+        "ActiveStage": 2,
         "Stages":" 1=Main, 2=Secondary, 3=third || 1=upstairs, 2=downstairs",
         "MultiInstanceBot":"Vesturo",
         "CameraBot":"Diaphoresis",
