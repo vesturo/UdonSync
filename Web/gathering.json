@@ -6,7 +6,7 @@
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
         "UpNext":"TRNR",
-        "Puppet1Active":1,
+        "Puppet1Active":true,
         "Puppet1User":"TRNR_",
         "Puppet1Puppet":1,
         "Puppets":"1 = TRNR_, 2 = medlish, 3 = Theslythief, 4 = n a k u, 5 = Empty",
