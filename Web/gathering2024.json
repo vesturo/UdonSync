@@ -2,10 +2,10 @@
     "WorldUpdater": {
         "ActiveStage": 0,
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3",
-        "MultiInstanceBot":"Constapatience",
+        "MultiInstanceBot":"NAN",
         "CameraBot":"NAN",
         "UpNext":"GATHERING 2024",
-        "Puppet1Active":true,
+        "Puppet1Active":false,
         "Puppet1User":"Vesturo",
         "Puppet1Puppet":3,
         "Puppets":"1 = default, 2 = moethelawn, 3 = empty",
