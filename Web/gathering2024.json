@@ -9,9 +9,9 @@
         "Puppet1User":"Aquaman56",
         "Puppet1Puppet":1,
         "Puppets":"1 = default, 2 = moethelawn, 3 = empty",
-        "Puppet2Active":false,
-        "Puppet2User":"NAN",
-        "Puppet2Puppet":2,
+        "Puppet2Active":true,
+        "Puppet2User":"Aquaman56",
+        "Puppet2Puppet":1,
         "Puppets2":"1 = default, 2 = empty",
         "Announcement":"Ari smells like baked beans"
     },
