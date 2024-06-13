@@ -1,6 +1,6 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0,
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"Diaphoresis",
         "CameraBot":"Vesturo",
