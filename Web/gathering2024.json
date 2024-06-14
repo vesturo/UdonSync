@@ -1,17 +1,17 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 1, 
+        "ActiveStage": 2, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"DJ LostMelody @ THE LONG JOURNEY",
+        "UpNext":"CLIKKSAW @ NY VATOSA VILLAGE",
         "Puppet1Active":true,
-        "Puppet1User":"LostMelody_",
+        "Puppet1User":"clïkk",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
-        "Puppet2Active":false,
+        "Puppet2Active":true,
         "Puppet2User":"Aquaman56",
-        "Puppet2Puppet":1,
+        "Puppet2Puppet":0,
         "Puppets2":"0 = default, 1 = empty",
         "Announcement":"Make sure you are not on the VRC beta if you have Camera issues in this world!"
     },
