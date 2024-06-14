@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 2, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"CLIKKSAW @ NY VATOSA VILLAGE",
+        "UpNext":"AKIYAMA @ MAZAVA TEMPLE",
         "Puppet1Active":true,
-        "Puppet1User":"clïkk",
+        "Puppet1User":"ＡＫＩＹＡＭＡ",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
-        "Puppet2Active":true,
+        "Puppet2Active":false,
         "Puppet2User":"DJ Jigsaw",
-        "Puppet2Puppet":0,
+        "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Make sure you are not on the VRC beta if you have Camera issues in this world!"
+        "Announcement":"Please re-join the instance!"
     },
     "GreenroomAcess": [
     "Vesturo",
