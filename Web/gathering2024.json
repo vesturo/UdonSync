@@ -1,12 +1,12 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0, 
+        "ActiveStage": 1, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
-        "MultiInstanceBot":"Vesturo",
+        "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"Merzl @ Mazava Temple",
+        "UpNext":"DJ Bammy @ THE LONG JOURNEY",
         "Puppet1Active":true,
-        "Puppet1User":"xkmerlz",
+        "Puppet1User":"BamCLC99",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
