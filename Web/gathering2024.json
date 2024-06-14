@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 1, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"Vesturo",
         "CameraBot":"Diaphoresis",
-        "UpNext":"GATHERING 2024",
-        "Puppet1Active":true,
-        "Puppet1User":"kohadachan",
-        "Puppet1Puppet":1,
+        "UpNext":"Heelix",
+        "Puppet1Active":false,
+        "Puppet1User":"heelix",
+        "Puppet1Puppet":2,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Aquaman56",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Your Adventure starts now"
+        "Announcement":"Make sure you are not on the VRC beta if you have Camera issues in this world!"
     },
     "GreenroomAcess": [
     "Vesturo",
