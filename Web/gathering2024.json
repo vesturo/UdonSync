@@ -9,9 +9,9 @@
         "Puppet1User":"DJ Megu",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
-        "Puppet2Active":false,
-        "Puppet2User":"DJ Jigsaw",
-        "Puppet2Puppet":1,
+        "Puppet2Active":true,
+        "Puppet2User":"Katyusha117",
+        "Puppet2Puppet":0,
         "Puppets2":"0 = default, 1 = empty",
         "Announcement":"Head over to Mazava Temple after you re-joined~"
     },
