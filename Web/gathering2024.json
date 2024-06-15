@@ -1,12 +1,12 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0, 
+        "ActiveStage": 1, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"Mayor of Texas @ MAZAVA TEMPLE",
+        "UpNext":"DULLPEAK @ THE LONG JOURNEY",
         "Puppet1Active":true,
-        "Puppet1User":"Mayor of Texas",
+        "Puppet1User":"DullPeak",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
