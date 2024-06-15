@@ -4,16 +4,16 @@
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"RAMYchan @ THE LONG JOURNEY",
+        "UpNext":"PONYO @ THE LONG JOURNEY",
         "Puppet1Active":true,
-        "Puppet1User":"れみぃちゃん-RAMYchan",
+        "Puppet1User":"PONYON",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":true,
         "Puppet2User":"yadex205",
         "Puppet2Puppet":0,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Our Journey Continues!"
+        "Announcement":"Please re-join the World, we had to deplay a patch!"
     },
     "GreenroomAcess": [
     "Vesturo",
