@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 2, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"ANKS @ NY VATOSA VILLAGE",
+        "UpNext":"10XX @ MAZAVA TEMPLE",
         "Puppet1Active":true,
-        "Puppet1User":"-Anks-",
+        "Puppet1User":"10xx",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"yadex205",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Please re-join the World, we had to deplay a patch!"
+        "Announcement":"Please make sure that you show the avatar of 10xx fully!"
     },
     "GreenroomAcess": [
     "Vesturo",
