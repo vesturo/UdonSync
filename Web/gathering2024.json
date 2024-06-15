@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 1, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"DULLPEAK @ THE LONG JOURNEY",
+        "UpNext":"Constapatience @ MAZAVA TEMPLE",
         "Puppet1Active":true,
-        "Puppet1User":"DullPeak",
+        "Puppet1User":"Constapatience",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Head over to Mazava Temple after you re-joined~"
+        "Announcement":"Las tact of today is Consta at teh Mazava Temple!"
     },
     "GreenroomAcess": [
     "Vesturo",
