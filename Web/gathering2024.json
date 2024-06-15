@@ -1,13 +1,13 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0, 
+        "ActiveStage": 2, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
         "UpNext":"Constapatience @ MAZAVA TEMPLE",
         "Puppet1Active":true,
         "Puppet1User":"Constapatience",
-        "Puppet1Puppet":0,
+        "Puppet1Puppet":2,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
