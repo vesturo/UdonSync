@@ -4,7 +4,7 @@
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"Constapatience @ MAZAVA TEMPLE",
+        "UpNext":"RAMYchan @ THE LONG JOURNEY",
         "Puppet1Active":true,
         "Puppet1User":"Constapatience",
         "Puppet1Puppet":2,
@@ -13,7 +13,7 @@
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":" wrong day + group photo in village"
+        "Announcement":"Day 2 starts soon"
     },
     "GreenroomAcess": [
     "Vesturo",
