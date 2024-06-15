@@ -3,17 +3,17 @@
         "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
-        "CameraBot":"NAN",
-        "UpNext":"Not Muzz @ MAZAVA TEMPLE",
+        "CameraBot":"Diaphoresis",
+        "UpNext":"WINDWARD @ MAZAVA TEMPLE",
         "Puppet1Active":true,
-        "Puppet1User":"Not Muzz",
+        "Puppet1User":"windward_",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"yadex205",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Show the avatar of Not Muzz and enjoy the next set!"
+        "Announcement":"THE MAGIC OF THE TEMPLE AWAKENS"
     },
     "GreenroomAcess": [
     "Vesturo",
