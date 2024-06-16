@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 2, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"eu_logy @ Ny Vatosa Village",
+        "UpNext":"Ru @ Mazava Temple",
         "Puppet1Active":true,
-        "Puppet1User":"eu_logy",
+        "Puppet1User":"Ru",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Please be patient, he crashed again"
+        "Announcement":"Head over to the Temple and show Mama Ru some love"
     },
     "GreenroomAcess": [
     "Vesturo",
