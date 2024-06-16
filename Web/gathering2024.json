@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 3, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"MOETHELAWN @ MAZAVA TEMPLE",
-        "Puppet1Active":true,
+        "UpNext":"CANNORIN @ MAZAVA TEMPLE",
+        "Puppet1Active":false,
         "Puppet1User":"moethelawn",
-        "Puppet1Puppet":1,
+        "Puppet1Puppet":2,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"Head to village for a group photo!"
+        "Announcement":"DAWN OF THE FINAL DAY"
     },
     "GreenroomAcess": [
     "Vesturo",
