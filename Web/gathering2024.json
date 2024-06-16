@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0, 
+        "ActiveStage": 2, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"CANNORIN @ MAZAVA TEMPLE",
+        "UpNext":"3MARCO @ NY VATOSA VILLAGE",
         "Puppet1Active":true,
-        "Puppet1User":"cannorin",
+        "Puppet1User":"3Marco",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
-        "Puppet2Active":false,
-        "Puppet2User":"Katyusha117",
-        "Puppet2Puppet":1,
+        "Puppet2Active":true,
+        "Puppet2User":"OmegaSol",
+        "Puppet2Puppet":0,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"DAWN OF THE FINAL DAY"
+        "Announcement":"You should head over to the Village..."
     },
     "GreenroomAcess": [
     "Vesturo",
