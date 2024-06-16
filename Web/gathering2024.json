@@ -1,17 +1,17 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 2, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"FIRESCAW @ NY VATOSA VILLAGE",
+        "UpNext":"MOETHELAWN @ MAZAVA TEMPLE",
         "Puppet1Active":true,
-        "Puppet1User":"Firescaw",
-        "Puppet1Puppet":0,
+        "Puppet1User":"moethelawn",
+        "Puppet1Puppet":1,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
-        "Puppet2Active":true,
+        "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
-        "Puppet2Puppet":0,
+        "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
         "Announcement":"Head to temple for the final set of the night!"
     },
