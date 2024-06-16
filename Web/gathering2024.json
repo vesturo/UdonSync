@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 2, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
         "UpNext":"TIMBOY @ NY VATOSA VILLAGE",
-        "Puppet1Active":true,
+        "Puppet1Active":false,
         "Puppet1User":"Timboy_",
-        "Puppet1Puppet":0,
+        "Puppet1Puppet":2,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
-        "Puppet2Active":true,
+        "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
-        "Puppet2Puppet":0,
+        "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"You should head over to the Village..."
+        "Announcement":"The Temple awaits you!"
     },
     "GreenroomAcess": [
     "Vesturo",
