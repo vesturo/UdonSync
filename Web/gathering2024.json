@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0, 
+        "ActiveStage": 2, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
-        "UpNext":"KIMA @ MAZAVA TEMPLE",
+        "UpNext":"Auzlex @ Ny Vatosa Village",
         "Puppet1Active":true,
-        "Puppet1User":"★ Kima ★",
+        "Puppet1User":"Auzlex",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"The Temple awaits you!"
+        "Announcement":"Auzlex will be playing at the village!"
     },
     "GreenroomAcess": [
     "Vesturo",
