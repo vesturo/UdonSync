@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 4, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
-        "MultiInstanceBot":"MyriadVR",
+        "MultiInstanceBot":"N/A",
         "CameraBot":"N/A",
-        "UpNext":"LIVE LASERSHOW IN THE TEMPLE",
-        "Puppet1Active":true,
+        "UpNext":"2025 here we come",
+        "Puppet1Active":false,
         "Puppet1User":"Laser",
-        "Puppet1Puppet":0,
+        "Puppet1Puppet":2,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"GROUP PHOTO AT THE VILLAGE"
+        "Announcement":"Till next year everyone!"
     },
     "GreenroomAcess": [
     "Vesturo",
