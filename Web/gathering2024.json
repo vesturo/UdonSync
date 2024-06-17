@@ -1,6 +1,6 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 3, 
+        "ActiveStage": 0, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"N/A",
@@ -13,7 +13,7 @@
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"UNLEASH A SNOWSTORM!"
+        "Announcement":"GROUP PHOTO AT THE VILLAGE"
     },
     "GreenroomAcess": [
     "Vesturo",
