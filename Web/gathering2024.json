@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0, 
+        "ActiveStage": 3, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"N/A",
-        "UpNext":"TheLenzSeesAll @ Mazava Temple",
+        "UpNext":"LIVE LASERSHOW IN THE TEMPLE",
         "Puppet1Active":true,
-        "Puppet1User":"TheLenzSeesAll",
+        "Puppet1User":"Laser",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"PLEASE RE-JOIN THE INSTANCE!"
+        "Announcement":"HEAD TO THE TEMPLE AND ENJOY THE SHOW!"
     },
     "GreenroomAcess": [
     "Vesturo",
