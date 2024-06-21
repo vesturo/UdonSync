@@ -2,7 +2,7 @@
     "WorldUpdater": {
         "ActiveStage": 3, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
-        "MultiInstanceBot":"N/A",
+        "MultiInstanceBot":"MyriadVR",
         "CameraBot":"N/A",
         "UpNext":"LASHERSHOW RE-RUN",
         "Puppet1Active":true,
