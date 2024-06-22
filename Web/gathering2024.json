@@ -1,11 +1,11 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 3, 
+        "ActiveStage": 2, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"N/A",
         "UpNext":"LASHERSHOW RE-RUN",
-        "Puppet1Active":true,
+        "Puppet1Active":false,
         "Puppet1User":"Laser",
         "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
@@ -13,7 +13,7 @@
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"SHOW OWENTHEPROGRAMMER, PURRIKU & LASER SOME LOVE!"
+        "Announcement":"LET'S CHILL AT THE VILLAGE"
     },
     "GreenroomAcess": [
     "Vesturo",
