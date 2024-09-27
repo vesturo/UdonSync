@@ -1,6 +1,6 @@
 {
     "WorldUpdater": {
-        "ActiveStage": 0, 
+        "ActiveStage": 3, 
         "Stages":"Temple = 0 // Ship = 1 // Village = 2 // Temple Laser = 3 // Miku Miku Experience = 4",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"N/A",
@@ -13,9 +13,10 @@
         "Puppet2User":"Katyusha117",
         "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
-        "Announcement":"LET'S TAKE A GROUP PICTURE AT THE TEMPLE"
+        "Announcement":"Welcome in IDA!"
     },
     "GreenroomAcess": [
-    "Vesturo"
+    "Vesturo",
+    "Laser"
   ]
 }
