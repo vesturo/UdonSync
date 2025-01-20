@@ -1,0 +1,34 @@
+{
+    "WorldConfiguration": {
+        "Multi_Instancing_Bot": "BOTNAMEHERE",
+
+        "Shadermotion_Tracking_DancerLeft": false,
+        "Shadermotion_ToTrack_DancerLeft": "NAMEHERE",
+        "Shadermotion_Puppet_DancerLeft": "0",
+
+        "Shadermotion_Tracking_DancerRight": false,
+        "Shadermotion_ToTrack_DancerRight": "NAMEHERE",
+        "Shadermotion_Puppet_DancerRight": "0",
+
+        "Shadermotion_Tracking_DJ": false,
+        "Shadermotion_ToTrack_DJ": "NAMEHERE",
+        "Shadermotion_Puppet_DJ": "0"
+    },
+    "WorldPermissionLevels": {
+        "StaffPlus": [
+            "Vesturo"
+        ],
+
+        "Staff": [
+            "PEOPLE TO DISABLE COLLIDERS FOR"
+        ],
+
+        "Artist": [
+            "DJ AND OTHER PEOPLE WHO SHOULD BE ABLE TO GET ON STAGE, DUH"
+        ],
+
+        "Dancer": [
+            "DANCERS, DUH"
+        ]
+    }
+}
