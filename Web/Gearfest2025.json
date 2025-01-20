@@ -16,11 +16,13 @@
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
-            "Vesturo"
+            "Vesturo",
+            "Gaming Skoot",
+            "DJ Gear Bolt"
         ],
 
         "Staff": [
-            "PEOPLE TO DISABLE COLLIDERS FOR"
+            "AztecAngelo"
         ],
 
         "Artist": [
