@@ -1,10 +1,10 @@
 {
     "WorldConfiguration": {
-        "Multi_Instancing_Bot": "NAN",
+        "Multi_Instancing_Bot": "Vesturo",
 
         "Shadermotion_Tracking_DancerLeft": true,
-        "Shadermotion_ToTrack_DancerLeft": "Vesturo",
-        "Shadermotion_Puppet_DancerLeft": "0",
+        "Shadermotion_ToTrack_DancerLeft": "Gaster",
+        "Shadermotion_Puppet_DancerLeft": "1",
 
         "Shadermotion_Tracking_DancerRight": false,
         "Shadermotion_ToTrack_DancerRight": "NAMEHERE",
