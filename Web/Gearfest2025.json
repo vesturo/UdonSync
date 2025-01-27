@@ -4,15 +4,15 @@
 
         "Shadermotion_Tracking_DancerLeft": true,
         "Shadermotion_ToTrack_DancerLeft": "Gaster04",
-        "Shadermotion_Puppet_DancerLeft": "0",
+        "Shadermotion_Puppet_DancerLeft": "1",
 
         "Shadermotion_Tracking_DancerRight": true,
         "Shadermotion_ToTrack_DancerRight": "EveningSleepy",
-        "Shadermotion_Puppet_DancerRight": "0",
+        "Shadermotion_Puppet_DancerRight": "1",
 
         "Shadermotion_Tracking_DJ": true,
         "Shadermotion_ToTrack_DJ": "Gaming Skoot",
-        "Shadermotion_Puppet_DJ": "0"
+        "Shadermotion_Puppet_DJ": "1"
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
