@@ -3,14 +3,14 @@
         "Multi_Instancing_Bot": "GroupSync-Red",
 
         "Shadermotion_Tracking_DancerLeft": true,
-        "Shadermotion_ToTrack_DancerLeft": "Gaster04",
-        "Shadermotion_Puppet_DancerLeft": "0",
+        "Shadermotion_ToTrack_DancerLeft": "Virtualilly",
+        "Shadermotion_Puppet_DancerLeft": "1",
 
-        "Shadermotion_Tracking_DancerRight": true,
+        "Shadermotion_Tracking_DancerRight": false,
         "Shadermotion_ToTrack_DancerRight": "EveningSleepy",
         "Shadermotion_Puppet_DancerRight": "0",
 
-        "Shadermotion_Tracking_DJ": true,
+        "Shadermotion_Tracking_DJ": false,
         "Shadermotion_ToTrack_DJ": "Gaming Skoot",
         "Shadermotion_Puppet_DJ": "1"
     },
