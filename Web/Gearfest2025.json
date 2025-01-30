@@ -10,9 +10,9 @@
         "Shadermotion_ToTrack_DancerRight": "Kyuubi_The_Orca",
         "Shadermotion_Puppet_DancerRight": "3",
 
-        "Shadermotion_Tracking_DJ": false,
-        "Shadermotion_ToTrack_DJ": "Deirdre Darkk",
-        "Shadermotion_Puppet_DJ": "0"
+        "Shadermotion_Tracking_DJ": true,
+        "Shadermotion_ToTrack_DJ": "Neon_",
+        "Shadermotion_Puppet_DJ": "2"
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
