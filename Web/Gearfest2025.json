@@ -6,7 +6,7 @@
         "Shadermotion_ToTrack_DancerLeft": "Freya Sky",
         "Shadermotion_Puppet_DancerLeft": "3",
 
-        "Shadermotion_Tracking_DancerRight": false,
+        "Shadermotion_Tracking_DancerRight": true,
         "Shadermotion_ToTrack_DancerRight": "darkgoaty",
         "Shadermotion_Puppet_DancerRight": "4",
 
