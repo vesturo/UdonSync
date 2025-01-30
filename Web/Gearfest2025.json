@@ -2,11 +2,11 @@
     "WorldConfiguration": {
         "Multi_Instancing_Bot": "GroupSync-Red",
 
-        "Shadermotion_Tracking_DancerLeft": false,
+        "Shadermotion_Tracking_DancerLeft": true,
         "Shadermotion_ToTrack_DancerLeft": "Freya Sky",
         "Shadermotion_Puppet_DancerLeft": "3",
 
-        "Shadermotion_Tracking_DancerRight": false,
+        "Shadermotion_Tracking_DancerRight": true,
         "Shadermotion_ToTrack_DancerRight": "Kyuubi_The_Orca",
         "Shadermotion_Puppet_DancerRight": "3",
 
