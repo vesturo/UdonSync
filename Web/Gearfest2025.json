@@ -2,15 +2,15 @@
     "WorldConfiguration": {
         "Multi_Instancing_Bot": "GroupSync-Red",
 
-        "Shadermotion_Tracking_DancerLeft": true,
+        "Shadermotion_Tracking_DancerLeft": false,
         "Shadermotion_ToTrack_DancerLeft": "Techbun",
         "Shadermotion_Puppet_DancerLeft": "4",
 
-        "Shadermotion_Tracking_DancerRight": true,
+        "Shadermotion_Tracking_DancerRight": false,
         "Shadermotion_ToTrack_DancerRight": "DarkGoaty",
         "Shadermotion_Puppet_DancerRight": "4",
 
-        "Shadermotion_Tracking_DJ": true,
+        "Shadermotion_Tracking_DJ": false,
         "Shadermotion_ToTrack_DJ": "LylacSky",
         "Shadermotion_Puppet_DJ": "2"
     },
