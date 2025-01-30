@@ -12,7 +12,7 @@
 
         "Shadermotion_Tracking_DJ": true,
         "Shadermotion_ToTrack_DJ": "VRALITY",
-        "Shadermotion_Puppet_DJ": "1"
+        "Shadermotion_Puppet_DJ": "0"
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
