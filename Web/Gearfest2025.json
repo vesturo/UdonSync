@@ -10,7 +10,7 @@
         "Shadermotion_ToTrack_DancerRight": "HighTidez",
         "Shadermotion_Puppet_DancerRight": "3",
 
-        "Shadermotion_Tracking_DJ": true,
+        "Shadermotion_Tracking_DJ": false,
         "Shadermotion_ToTrack_DJ": "CHERNOBYL",
         "Shadermotion_Puppet_DJ": "0"
     },
