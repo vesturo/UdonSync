@@ -2,16 +2,16 @@
     "WorldConfiguration": {
         "Multi_Instancing_Bot": "GroupSync-Red",
 
-        "Shadermotion_Tracking_DancerLeft": false,
-        "Shadermotion_ToTrack_DancerLeft": "Gaster04",
-        "Shadermotion_Puppet_DancerLeft": "3",
+        "Shadermotion_Tracking_DancerLeft": true,
+        "Shadermotion_ToTrack_DancerLeft": "Freya Sky",
+        "Shadermotion_Puppet_DancerLeft": "2",
 
-        "Shadermotion_Tracking_DancerRight": false,
-        "Shadermotion_ToTrack_DancerRight": "HighTidez",
+        "Shadermotion_Tracking_DancerRight": true,
+        "Shadermotion_ToTrack_DancerRight": "Kyuubi_The_Orca",
         "Shadermotion_Puppet_DancerRight": "3",
 
         "Shadermotion_Tracking_DJ": false,
-        "Shadermotion_ToTrack_DJ": "VRALITY",
+        "Shadermotion_ToTrack_DJ": "Deirdre Darkk",
         "Shadermotion_Puppet_DJ": "0"
     },
     "WorldPermissionLevels": {
