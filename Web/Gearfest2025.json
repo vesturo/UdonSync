@@ -3,16 +3,16 @@
         "Multi_Instancing_Bot": "GroupSync-Red",
 
         "Shadermotion_Tracking_DancerLeft": true,
-        "Shadermotion_ToTrack_DancerLeft": "DarkGoaty",
-        "Shadermotion_Puppet_DancerLeft": "4",
+        "Shadermotion_ToTrack_DancerLeft": "Gaster04",
+        "Shadermotion_Puppet_DancerLeft": "3",
 
         "Shadermotion_Tracking_DancerRight": true,
         "Shadermotion_ToTrack_DancerRight": "Techbun",
         "Shadermotion_Puppet_DancerRight": "4",
 
         "Shadermotion_Tracking_DJ": true,
-        "Shadermotion_ToTrack_DJ": "Aliquem",
-        "Shadermotion_Puppet_DJ": "0"
+        "Shadermotion_ToTrack_DJ": "HotChedder",
+        "Shadermotion_Puppet_DJ": "1"
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
