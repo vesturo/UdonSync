@@ -6,9 +6,9 @@
         "Shadermotion_ToTrack_DancerLeft": "Endie Chrysaora",
         "Shadermotion_Puppet_DancerLeft": "1",
 
-        "Shadermotion_Tracking_DancerRight": false,
-        "Shadermotion_ToTrack_DancerRight": "Delicious Deli",
-        "Shadermotion_Puppet_DancerRight": "1",
+        "Shadermotion_Tracking_DancerRight": true,
+        "Shadermotion_ToTrack_DancerRight": "Gregorif",
+        "Shadermotion_Puppet_DancerRight": "5",
 
         "Shadermotion_Tracking_DJ": false,
         "Shadermotion_ToTrack_DJ": "H U S K Y",
