@@ -10,7 +10,7 @@
         "Shadermotion_ToTrack_DancerRight": "Techbun",
         "Shadermotion_Puppet_DancerRight": "4",
 
-        "Shadermotion_Tracking_DJ": true,
+        "Shadermotion_Tracking_DJ": false,
         "Shadermotion_ToTrack_DJ": "HotChedder",
         "Shadermotion_Puppet_DJ": "1"
     },
