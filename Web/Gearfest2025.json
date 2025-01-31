@@ -2,9 +2,9 @@
     "WorldConfiguration": {
         "Multi_Instancing_Bot": "GroupSync-Red",
 
-        "Shadermotion_Tracking_DancerLeft": false,
-        "Shadermotion_ToTrack_DancerLeft": "Endie Chrysaora",
-        "Shadermotion_Puppet_DancerLeft": "1",
+        "Shadermotion_Tracking_DancerLeft": true,
+        "Shadermotion_ToTrack_DancerLeft": "YandereMech",
+        "Shadermotion_Puppet_DancerLeft": "9",
 
         "Shadermotion_Tracking_DancerRight": true,
         "Shadermotion_ToTrack_DancerRight": "Gregorif",
