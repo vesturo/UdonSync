@@ -10,9 +10,9 @@
         "Shadermotion_ToTrack_DancerRight": "xlukez",
         "Shadermotion_Puppet_DancerRight": "6",
 
-        "Shadermotion_Tracking_DJ": false,
-        "Shadermotion_ToTrack_DJ": "~Prof~",
-        "Shadermotion_Puppet_DJ": "1"
+        "Shadermotion_Tracking_DJ": true,
+        "Shadermotion_ToTrack_DJ": "ArcAngel",
+        "Shadermotion_Puppet_DJ": "2"
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
