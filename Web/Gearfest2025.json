@@ -2,7 +2,7 @@
     "WorldConfiguration": {
         "Multi_Instancing_Bot": "GroupSync-Red",
 
-        "Shadermotion_Tracking_DancerLeft": true,
+        "Shadermotion_Tracking_DancerLeft": false,
         "Shadermotion_ToTrack_DancerLeft": "Gaster04",
         "Shadermotion_Puppet_DancerLeft": "3",
 
