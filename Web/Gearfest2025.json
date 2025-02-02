@@ -3,16 +3,16 @@
         "Multi_Instancing_Bot": "GroupSync-Red",
 
         "Shadermotion_Tracking_DancerLeft": true,
-        "Shadermotion_ToTrack_DancerLeft": "Techbun",
+        "Shadermotion_ToTrack_DancerLeft": "DarkGoaty",
         "Shadermotion_Puppet_DancerLeft": "4",
 
         "Shadermotion_Tracking_DancerRight": true,
-        "Shadermotion_ToTrack_DancerRight": "xlukez",
-        "Shadermotion_Puppet_DancerRight": "6",
+        "Shadermotion_ToTrack_DancerRight": "Necramancy",
+        "Shadermotion_Puppet_DancerRight": "7",
 
         "Shadermotion_Tracking_DJ": true,
-        "Shadermotion_ToTrack_DJ": "ΛrcΛηgel",
-        "Shadermotion_Puppet_DJ": "2"
+        "Shadermotion_ToTrack_DJ": "Mayor of Texas",
+        "Shadermotion_Puppet_DJ": "3"
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
