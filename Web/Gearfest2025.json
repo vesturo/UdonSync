@@ -1,18 +1,18 @@
 {
     "WorldConfiguration": {
-        "Multi_Instancing_Bot": "GroupSync-Red",
+        "Multi_Instancing_Bot": "",
 
-        "Shadermotion_Tracking_DancerLeft": true,
-        "Shadermotion_ToTrack_DancerLeft": "Gunnthor",
-        "Shadermotion_Puppet_DancerLeft": "3",
+        "Shadermotion_Tracking_DancerLeft": false,
+        "Shadermotion_ToTrack_DancerLeft": "",
+        "Shadermotion_Puppet_DancerLeft": "0",
 
-        "Shadermotion_Tracking_DancerRight": true,
-        "Shadermotion_ToTrack_DancerRight": "Necramancy",
-        "Shadermotion_Puppet_DancerRight": "7",
+        "Shadermotion_Tracking_DancerRight": false,
+        "Shadermotion_ToTrack_DancerRight": "",
+        "Shadermotion_Puppet_DancerRight": "0",
 
-        "Shadermotion_Tracking_DJ": true,
-        "Shadermotion_ToTrack_DJ": "moethelawn",
-        "Shadermotion_Puppet_DJ": "4"
+        "Shadermotion_Tracking_DJ": false,
+        "Shadermotion_ToTrack_DJ": "",
+        "Shadermotion_Puppet_DJ": "0"
     },
     "WorldPermissionLevels": {
         "StaffPlus": [
