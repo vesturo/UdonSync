@@ -6,18 +6,18 @@
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
         "UpNext":"GATHERING 2024",
-        "Puppet1Active":true,
+        "Puppet1Active":false,
         "Puppet1User":"Vesturo",
         "Puppet1Puppet":5,
         "Puppets":"1 = TRNR_, 2 = medlish, 3 = Theslythief, 4 = n a k u, 5 = Empty",
-        "Puppet2Active":true,
+        "Puppet2Active":false,
         "Puppet2User":"Vesturo",
         "Puppet2Puppet":3,
         "PuppetsDancer":"1 = Ministry, 2 = Ministry 2, 3 = Empty",
-        "Puppet3Active":true,
+        "Puppet3Active":false,
         "Puppet3User":"Vesturo",
         "Puppet3Puppet":3,
-        "Announcement":"Your long journey starts soon!"
+        "Announcement":"The Game"
     },
     "GreenroomAcess": [
     "Vesturo",
