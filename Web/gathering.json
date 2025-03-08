@@ -1,7 +1,7 @@
 {
     "WorldUpdater": {
         "IsOpen": false,
-        "ActiveStage": 1,
+        "ActiveStage": 2,
         "Stages":"1=upstairs, 2=downstairs",
         "MultiInstanceBot":"MyriadVR",
         "CameraBot":"Diaphoresis",
