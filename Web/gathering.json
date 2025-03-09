@@ -1,6 +1,6 @@
 {
     "WorldUpdater": {
-        "IsOpen": false,
+        "IsOpen": true,
         "ActiveStage": 2,
         "Stages":"1=upstairs, 2=downstairs",
         "MultiInstanceBot":"MyriadVR",
@@ -17,7 +17,7 @@
         "Puppet3Active":false,
         "Puppet3User":"Vesturo",
         "Puppet3Puppet":3,
-        "Announcement":"The Game"
+        "Announcement":"Your long journey starts soon!"
     },
     "GreenroomAcess": [
     "Vesturo",
