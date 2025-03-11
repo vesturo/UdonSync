@@ -1,6 +1,6 @@
 {
     "WorldUpdater": {
-        "IsOpen": false,
+        "IsOpen": true,
         "ActiveStage": 2,
         "Stages":"1=upstairs, 2=downstairs",
         "MultiInstanceBot":"MyriadVR",
