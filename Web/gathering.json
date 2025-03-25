@@ -5,7 +5,7 @@
         "Stages":"1=upstairs, 2=downstairs",
         "MultiInstanceBot":"Diaphoresis",
         "CameraBot":"UWU",
-        "UpNext":"GATHERING 2024",
+        "UpNext":0,
         "Puppet1Active":false,
         "Puppet1User":"Vesturo",
         "Puppet1Puppet":5,
