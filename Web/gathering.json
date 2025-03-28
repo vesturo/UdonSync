@@ -1,10 +1,10 @@
 {
     "WorldUpdater": {
         "IsOpen": false,
-        "ActiveStage": 2,
+        "ActiveStage": 1,
         "Stages":"1=upstairs, 2=downstairs",
-        "MultiInstanceBot":"GroupSync-Red",
-        "CameraBot":"Diaphoresis",
+        "MultiInstanceBot":"Diaphoresis",
+        "CameraBot":"Vesturo",
         "UpNext":0,
         "Puppet1Active":false,
         "Puppet1User":"Vesturo",
