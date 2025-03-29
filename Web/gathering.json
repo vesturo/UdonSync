@@ -13,8 +13,8 @@
         "Puppet3User": "Vesturo",
         "Puppet3Puppet": 3,
         "Announcement": "Your long journey starts soon!",
-        "UpNext": 0,
-        "ActiveStage": 2,
+        "UpNext": 1,
+        "ActiveStage": 1,
         "DJNames": {
             "0": "The Adventure continues!",
             "1": "Fallen",
