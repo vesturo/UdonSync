@@ -14,7 +14,6 @@
         "Puppet3Puppet": 3,
         "Announcement": "Your long journey starts soon!",
         "UpNext": 1,
-        "ActiveStage": 1,
         "DJNames": {
             "0": "The Adventure continues!",
             "1": "Fallen",
@@ -22,6 +21,7 @@
             "3": "AcChosen",
             "4": "Clyde Machine"
         },
+        "ActiveStage": 2,
         "Stages": {
             "1": "Moon Deck",
             "2": "Storage Room"
