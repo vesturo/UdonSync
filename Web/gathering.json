@@ -2,33 +2,41 @@
     "WorldUpdater": {
         "IsOpen": false,
         "ActiveStage": 1,
-        "Stages":"1=upstairs, 2=downstairs",
-        "MultiInstanceBot":"GroupSync-Red",
-        "CameraBot":"Diaphoresis",
-        "UpNext":0,
-        "Puppet1Active":false,
-        "Puppet1User":"Vesturo",
-        "Puppet1Puppet":5,
-        "Puppets":"1 = TRNR_, 2 = medlish, 3 = Theslythief, 4 = n a k u, 5 = Empty",
-        "Puppet2Active":false,
-        "Puppet2User":"Vesturo",
-        "Puppet2Puppet":3,
-        "PuppetsDancer":"1 = Ministry, 2 = Ministry 2, 3 = Empty",
-        "Puppet3Active":false,
-        "Puppet3User":"Vesturo",
-        "Puppet3Puppet":3,
-        "Announcement":"Your long journey starts soon!"
+        "Stages": {
+            "1": "upstairs",
+            "2": "downstairs"
+        },
+        "MultiInstanceBot": "GroupSync-Red",
+        "CameraBot": "Diaphoresis",
+        "UpNext": 0,
+        "DJNames": {
+            "0": "THe Adventure continues!",
+            "1": "Fallen",
+            "2": "Timboy",
+            "3": "AcChosen",
+            "4": "Clyde Machine"
+        },
+        "Puppet1Active": false,
+        "Puppet1User": "Vesturo",
+        "Puppet1Puppet": 5,
+        "Puppet2Active": false,
+        "Puppet2User": "Vesturo",
+        "Puppet2Puppet": 3,
+        "Puppet3Active": false,
+        "Puppet3User": "Vesturo",
+        "Puppet3Puppet": 3,
+        "Announcement": "Your long journey starts soon!"
     },
     "GreenroomAcess": [
-    "Vesturo",
-    "Ari Gold",
-    "AztecAngelo",
-    "AyyyyRik",
-    "HoshPak",
-    "Aquaman56",
-    "MyriadVR",
-    "RedHawks",
-    "~Spades~",
-    "Gaming Skoot"
-  ]
+        "Vesturo",
+        "Ari Gold",
+        "AztecAngelo",
+        "AyyyyRik",
+        "HoshPak",
+        "Aquaman56",
+        "MyriadVR",
+        "RedHawks",
+        "~Spades~",
+        "Gaming Skoot"
+    ]
 }
