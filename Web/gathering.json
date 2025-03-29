@@ -3,8 +3,8 @@
         "IsOpen": false,
         "ActiveStage": 1,
         "Stages": {
-            "1": "upstairs",
-            "2": "downstairs"
+            "1": "Moon Deck",
+            "2": "Storage Room"
         },
         "MultiInstanceBot": "GroupSync-Red",
         "CameraBot": "Diaphoresis",
