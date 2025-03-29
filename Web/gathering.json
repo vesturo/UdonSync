@@ -1,15 +1,15 @@
 {
     "WorldUpdater": {
         "IsOpen": false,
-        "MultiInstanceBot": "Vesturo",
+        "MultiInstanceBot": "GroupSync-Red",
         "CameraBot": "GroupSync-Neon",
         "Puppet1Active": false,
         "Puppet1User": "FALLENx4NGEL",
         "Puppet1Puppet": 1,
-        "Puppet2Active": true,
+        "Puppet2Active": false,
         "Puppet2User": "Gregorif",
         "Puppet2Puppet": 1,
-        "Puppet3Active": true,
+        "Puppet3Active": false,
         "Puppet3User": "V xo",
         "Puppet3Puppet": 2,
         "Announcement": "Your long journey starts soon!",
