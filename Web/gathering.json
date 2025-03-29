@@ -1,8 +1,8 @@
 {
     "WorldUpdater": {
         "IsOpen": false,
-        "MultiInstanceBot": "GroupSync-Neo",
-        "CameraBot": "Vesturo",
+        "MultiInstanceBot": "GroupSync-Red",
+        "CameraBot": "GroupSync-Neo",
         "Puppet1Active": false,
         "Puppet1User": "Vesturo",
         "Puppet1Puppet": 5,
