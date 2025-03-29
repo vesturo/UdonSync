@@ -1,6 +1,6 @@
 {
     "WorldUpdater": {
-        "IsOpen": false,
+        "IsOpen": true,
         "MultiInstanceBot": "Vesturo",
         "CameraBot": "GroupSync-Neon",
         "Puppet1Active": true,
