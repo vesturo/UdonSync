@@ -1,19 +1,19 @@
 {
     "WorldUpdater": {
-        "IsOpen": false,
+        "IsOpen": true,
         "MultiInstanceBot": "GroupSync-Red",
         "CameraBot": "GroupSync-Neo",
-        "Puppet1Active": true,
+        "Puppet1Active": false,
         "Puppet1User": "Timboy_",
         "Puppet1Puppet": 0,
-        "Puppet2Active": true,
+        "Puppet2Active": false,
         "Puppet2User": "Techbun",
         "Puppet2Puppet": 2,
-        "Puppet3Active": true,
+        "Puppet3Active": false,
         "Puppet3User": "Gaster04",
-        "Puppet3Puppet": 2,
-        "Announcement": "Your long journey starts soon!",
-        "UpNext": 2,
+        "Puppet3Puppet": 1,
+        "Announcement": "Rejoin & head upstairs via the elevator!",
+        "UpNext": 3,
         "DJNames": {
             "0": "The Adventure continues!",
             "1": "Fallen",
@@ -21,7 +21,7 @@
             "3": "AcChosen",
             "4": "Clyde Machine"
         },
-        "ActiveStage": 2,
+        "ActiveStage": 1,
         "Stages": {
             "1": "Moon Deck",
             "2": "Storage Room"
