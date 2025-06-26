@@ -7,11 +7,11 @@
         "UpNext":"LASHERSHOW RE-RUN",
         "Puppet1Active":false,
         "Puppet1User":"N/A",
-        "Puppet1Puppet":2,
+        "Puppet1Puppet":0,
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"N/A",
-        "Puppet2Puppet":1,
+        "Puppet2Puppet":0,
         "Puppets2":"0 = default, 1 = empty",
         "Announcement":"The Adventure continues!"
     },
