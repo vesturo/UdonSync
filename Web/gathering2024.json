@@ -11,7 +11,7 @@
         "Puppets":"0 = default, 1 = moethelawn, 2 = empty",
         "Puppet2Active":false,
         "Puppet2User":"N/A",
-        "Puppet2Puppet":0,
+        "Puppet2Puppet":1,
         "Puppets2":"0 = default, 1 = empty",
         "Announcement":"The Adventure continues!"
     },
