@@ -1,7 +1,8 @@
 {
-  "version": "1.1.1",
-  "latestChanges": "> Adjusted some settings on the projector/> fixed some UI component issues",
+  "version": "1.1.2",
+  "latestChanges": "> Updated shaders incl. dependencies/> tweaked some materials/> added some random spotlight in the darkness, cause why not!/> Added a floor mirror area, for pictures with nice reflections ~",
   "pastChanges": {
+    "1.1.1": "> Adjusted some settings on the projector/> fixed some UI component issues",
     "1.1.0": "> Expanded main room/> Added some QoL system/> Added Update notifications",
     "1.0.5": "Changed some layout stuff around",
     "1.0.4": "minor changes",
