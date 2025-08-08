@@ -3,6 +3,10 @@
   "latestChanges": "> Expanded main room/> Added some QoL system/> Added Update notifications",
   "pastChanges": {
     "1.0.5": "Changed some layout stuff around",
-    "1.0.4": "minor changes"
+    "1.0.4": "minor changes",
+    "1.0.3": "adjusted materials",
+    "1.0.2": "Implemented Light Volumes 2.0",
+    "1.0.1": "Implemented Legacy Light Volumes",
+    "1.0.0": "Initial Release"
   }
 }
