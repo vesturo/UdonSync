@@ -2,14 +2,14 @@
   "version": "1.1.3",
   "latestChanges": "> more unity color theory experiments/> all walls and floors besides the water are now white/> removed the mirror because it looked goofy!/> fucked around with the haze some more",
   "pastChanges": {
-    "1.1.2":"> Updated shaders incl. dependencies/> tweaked some materials/> fixed some projector blending issues/> added some random spotlight in the darkness, cause why not!/> Added a floor mirror area, for pictures with nice reflections ~",
+    "1.1.2": "> Updated shaders incl. dependencies/> tweaked some materials/> fixed some projector blending issues/> added some random spotlight in the darkness, cause why not!/> Added a floor mirror area, for pictures with nice reflections ~",
     "1.1.1": "> Adjusted some settings on the projector/> fixed some UI component issues",
     "1.1.0": "> Expanded main room/> Added some QoL system/> Added Update notifications",
-    "1.0.5": "Changed some layout stuff around",
-    "1.0.4": "minor changes",
-    "1.0.3": "adjusted materials",
-    "1.0.2": "Implemented Light Volumes 2.0",
-    "1.0.1": "Implemented Legacy Light Volumes",
-    "1.0.0": "Initial Release"
+    "1.0.5": "> Changed some layout stuff around",
+    "1.0.4": "> minor changes",
+    "1.0.3": "> adjusted materials",
+    "1.0.2": "> Implemented Light Volumes 2.0",
+    "1.0.1": "> Implemented Legacy Light Volumes",
+    "1.0.0": "> Initial Release"
   }
 }
