@@ -1,7 +1,8 @@
 {
-  "version": "1.1.5",
-  "latestChanges": "> Mesh optimization pass/>moved Cellar in world space to make room for next sceene, the apartment/> re-did the light nooks/> brought back the materials/> implemented projector GI",
+  "version": "1.1.6",
+  "latestChanges": "> rebaked lighting/> added corner with random as texture to test texture projections/> Adjusted projector GI",
   "pastChanges": {
+    "1.1.5": "> Mesh optimization pass/>moved Cellar in world space to make room for next sceene, the apartment/> re-did the light nooks/> brought back the materials/> implemented projector GI",
     "1.1.4": "> UI Rework to fix some issues with the changelog system/> made projector background black for better contrast/> re-calculated brightness & Saturation on projector/> Updated VideoTXL to latest beta/> Added supporter state display for future proofing/> replaced water with solid floor for falloff tests",
     "1.1.3": "> more unity color theory experiments/> all walls and floors besides the water are now white/> removed the mirror because it looked goofy!/> fucked around with the haze some more",
     "1.1.2": "> Updated shaders incl. dependencies/> tweaked some materials/> fixed some projector blending issues/> added some random spotlight in the darkness, cause why not!/> Added a floor mirror area, for pictures with nice reflections ~",
