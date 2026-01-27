@@ -1,42 +1,98 @@
 {
     "WorldConfiguration": {
         "Multi_Instancing_Bot": "",
+        "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
+        
         "World_State": "0", 
-        "WorldStateNote": {
-            "0":"DJ", 
-            "1":"Live Music"
-        },
+        "WorldStateNote": { "0":"DJ", "1":"Live Music" },
+
 
         "Prop_State": "0",
-        "PropStateNote": {
-            "0":"Default", 
-            "1":"FCC", 
-            "2":"Luxe Nova"
+        "PropStateNote": { "0":"Default", "1":"FCC", "2":"Luxe Nova" },
+
+
+        "Shadermotion0_ToTrack": "",
+        "Shadermotion0ToTrackNote": "VRChat name of the user to track",
+
+        "Shadermotion0_Puppet": "0",
+        "Shadermotion0PuppetNote": {
+            "0":"Off",
+            "1":"Puppet 1",
+            "2":"Puppet 2",
+            "3":"Puppet 3",
+            "4":"Puppet 4",
+            "5":"Puppet 5"
         },
 
-        "Shadermotion0_Tracking": false,
-        "Shadermotion0_ToTrack": "",
-        "Shadermotion0_Puppet": "0",
 
-        "Shadermotion1_Tracking": false,
         "Shadermotion1_ToTrack": "",
+        "Shadermotion1ToTrackNote": "VRChat name of the user to track",
+
         "Shadermotion1_Puppet": "0",
+        "Shadermotion1PuppetNote": {
+            "0":"Off",
+            "1":"Puppet 1",
+            "2":"Puppet 2",
+            "3":"Puppet 3",
+            "4":"Puppet 4",
+            "5":"Puppet 5"
+        },
 
-        "Shadermotion2_Tracking": false,
+
         "Shadermotion2_ToTrack": "",
+        "Shadermotion2ToTrackNote": "VRChat name of the user to track",
+
         "Shadermotion2_Puppet": "0",
+        "Shadermotion2PuppetNote": {
+            "0":"Off",
+            "1":"Puppet 1",
+            "2":"Puppet 2",
+            "3":"Puppet 3",
+            "4":"Puppet 4",
+            "5":"Puppet 5"
+        },
 
-        "Shadermotion3_Tracking": false,
+
         "Shadermotion3_ToTrack": "",
+        "Shadermotion3ToTrackNote": "VRChat name of the user to track",
+
         "Shadermotion3_Puppet": "0",
+        "Shadermotion3PuppetNote": {
+            "0":"Off",
+            "1":"Puppet 1",
+            "2":"Puppet 2",
+            "3":"Puppet 3",
+            "4":"Puppet 4",
+            "5":"Puppet 5"
+        },
 
-        "Shadermotion4_Tracking": false,
+
         "Shadermotion4_ToTrack": "",
-        "Shadermotion4_Puppet": "0",
+        "Shadermotion4ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion5_Tracking": false,
+        "Shadermotion4_Puppet": "0",
+        "Shadermotion4PuppetNote": {
+            "0":"Off",
+            "1":"Puppet 1",
+            "2":"Puppet 2",
+            "3":"Puppet 3",
+            "4":"Puppet 4",
+            "5":"Puppet 5"
+        },
+
+
         "Shadermotion5_ToTrack": "",
-        "Shadermotion5_Puppet": "0"
+        "Shadermotion5ToTrackNote": "VRChat name of the user to track",
+
+        "Shadermotion5_Puppet": "0",
+        "Shadermotion5PuppetNote": {
+            "0":"Off",
+            "1":"Puppet 1",
+            "2":"Puppet 2",
+            "3":"Puppet 3",
+            "4":"Puppet 4",
+            "5":"Puppet 5"
+        }
     }
 }
