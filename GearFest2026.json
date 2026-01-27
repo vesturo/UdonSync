@@ -1,0 +1,42 @@
+{
+    "WorldConfiguration": {
+        "Multi_Instancing_Bot": "",
+
+        "World_State": "0", 
+        "WorldStateNote": {
+            "0":"DJ", 
+            "1":"Live Music"
+        },
+
+        "Prop_State": "0",
+        "PropStateNote": {
+            "0":"Default", 
+            "1":"FCC", 
+            "2":"Luxe Nova"
+        },
+
+        "Shadermotion0_Tracking": false,
+        "Shadermotion0_ToTrack": "",
+        "Shadermotion0_Puppet": "0",
+
+        "Shadermotion1_Tracking": false,
+        "Shadermotion1_ToTrack": "",
+        "Shadermotion1_Puppet": "0",
+
+        "Shadermotion2_Tracking": false,
+        "Shadermotion2_ToTrack": "",
+        "Shadermotion2_Puppet": "0",
+
+        "Shadermotion3_Tracking": false,
+        "Shadermotion3_ToTrack": "",
+        "Shadermotion3_Puppet": "0",
+
+        "Shadermotion4_Tracking": false,
+        "Shadermotion4_ToTrack": "",
+        "Shadermotion4_Puppet": "0",
+
+        "Shadermotion5_Tracking": false,
+        "Shadermotion5_ToTrack": "",
+        "Shadermotion5_Puppet": "0"
+    }
+}
