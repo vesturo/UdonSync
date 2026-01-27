@@ -18,11 +18,7 @@
         "Shadermotion0_Puppet": "0",
         "Shadermotion0PuppetNote": {
             "0":"Off",
-            "1":"Puppet 1",
-            "2":"Puppet 2",
-            "3":"Puppet 3",
-            "4":"Puppet 4",
-            "5":"Puppet 5"
+            "1":"Debug"
         },
 
 
@@ -31,12 +27,7 @@
 
         "Shadermotion1_Puppet": "0",
         "Shadermotion1PuppetNote": {
-            "0":"Off",
-            "1":"Puppet 1",
-            "2":"Puppet 2",
-            "3":"Puppet 3",
-            "4":"Puppet 4",
-            "5":"Puppet 5"
+            "0":"Off"
         },
 
 
@@ -45,12 +36,7 @@
 
         "Shadermotion2_Puppet": "0",
         "Shadermotion2PuppetNote": {
-            "0":"Off",
-            "1":"Puppet 1",
-            "2":"Puppet 2",
-            "3":"Puppet 3",
-            "4":"Puppet 4",
-            "5":"Puppet 5"
+            "0":"Off"
         },
 
 
@@ -59,12 +45,7 @@
 
         "Shadermotion3_Puppet": "0",
         "Shadermotion3PuppetNote": {
-            "0":"Off",
-            "1":"Puppet 1",
-            "2":"Puppet 2",
-            "3":"Puppet 3",
-            "4":"Puppet 4",
-            "5":"Puppet 5"
+            "0":"Off"
         },
 
 
@@ -73,12 +54,7 @@
 
         "Shadermotion4_Puppet": "0",
         "Shadermotion4PuppetNote": {
-            "0":"Off",
-            "1":"Puppet 1",
-            "2":"Puppet 2",
-            "3":"Puppet 3",
-            "4":"Puppet 4",
-            "5":"Puppet 5"
+            "0":"Off"
         },
 
 
@@ -87,12 +63,7 @@
 
         "Shadermotion5_Puppet": "0",
         "Shadermotion5PuppetNote": {
-            "0":"Off",
-            "1":"Puppet 1",
-            "2":"Puppet 2",
-            "3":"Puppet 3",
-            "4":"Puppet 4",
-            "5":"Puppet 5"
+            "0":"Off"
         }
     }
 }
