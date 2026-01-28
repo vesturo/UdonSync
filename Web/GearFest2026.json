@@ -1,6 +1,6 @@
 {
     "WorldConfiguration": {
-        "Multi_Instancing_Bot": "Vesturo",
+        "Multi_Instancing_Bot": "",
         "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
 
@@ -12,7 +12,7 @@
         "PropStateNote": { "0":"Disabled", "1":"FCC", "2":"Luxe Nova" },
 
 
-        "Shadermotion0_ToTrack": "Cryo Goddess",
+        "Shadermotion0_ToTrack": "",
         "Shadermotion0ToTrackNote": "VRChat name of the user to track",
 
         "Shadermotion0_Puppet": "1",
@@ -24,7 +24,7 @@
         },
 
 
-        "Shadermotion1_ToTrack": "AyumiKoi",
+        "Shadermotion1_ToTrack": "",
         "Shadermotion1ToTrackNote": "VRChat name of the user to track",
 
         "Shadermotion1_Puppet": "2",
@@ -36,7 +36,7 @@
         },
 
 
-        "Shadermotion2_ToTrack": "Monc42",
+        "Shadermotion2_ToTrack": "",
         "Shadermotion2ToTrackNote": "VRChat name of the user to track",
 
         "Shadermotion2_Puppet": "2",
@@ -49,7 +49,7 @@
         },
 
 
-        "Shadermotion3_ToTrack": "JustARandom_",
+        "Shadermotion3_ToTrack": "",
         "Shadermotion3ToTrackNote": "VRChat name of the user to track",
 
         "Shadermotion3_Puppet": "1",
@@ -59,7 +59,7 @@
         },
 
 
-        "Shadermotion4_ToTrack": "UnknownCorner",
+        "Shadermotion4_ToTrack": "",
         "Shadermotion4ToTrackNote": "VRChat name of the user to track",
 
         "Shadermotion4_Puppet": "1",
