@@ -1,10 +1,10 @@
 {
     "WorldConfiguration": {
-        "Multi_Instancing_Bot": "Vesturo",
+        "Multi_Instancing_Bot": "",
         "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
 
-        "World_State": "1", 
+        "World_State": "0", 
         "WorldStateNote": { "0":"DJ", "1":"Live Music" },
 
 
@@ -12,10 +12,10 @@
         "PropStateNote": { "0":"Disabled", "1":"FCC", "2":"Luxe Nova" },
 
 
-        "Shadermotion0_ToTrack": "Vesturo",
+        "Shadermotion0_ToTrack": "",
         "Shadermotion0ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion0_Puppet": "1",
+        "Shadermotion0_Puppet": "",
         "Shadermotion0PuppetNote": {
             "0":"Off",
             "1":"DJ",
@@ -24,10 +24,10 @@
         },
 
 
-        "Shadermotion1_ToTrack": "Vesturo",
+        "Shadermotion1_ToTrack": "",
         "Shadermotion1ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion1_Puppet": "2",
+        "Shadermotion1_Puppet": "0",
         "Shadermotion1PuppetNote": {
             "0":"Off",
             "1":"Freya",
@@ -36,10 +36,10 @@
         },
 
 
-        "Shadermotion2_ToTrack": "Vesturo",
+        "Shadermotion2_ToTrack": "",
         "Shadermotion2ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion2_Puppet": "3",
+        "Shadermotion2_Puppet": "0",
         "Shadermotion2PuppetNote": {
             "0":"Off",
             "1":"Livid",
@@ -49,27 +49,27 @@
         },
 
 
-        "Shadermotion3_ToTrack": "Vesturo",
+        "Shadermotion3_ToTrack": "",
         "Shadermotion3ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion3_Puppet": "1",
+        "Shadermotion3_Puppet": "0",
         "Shadermotion3PuppetNote": {
             "0":"Off",
             "1":"Pam"
         },
 
 
-        "Shadermotion4_ToTrack": "Vesturo",
+        "Shadermotion4_ToTrack": "",
         "Shadermotion4ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion4_Puppet": "1",
+        "Shadermotion4_Puppet": "0",
         "Shadermotion4PuppetNote": {
             "0":"Off",
             "1":"Farron"
         },
 
 
-        "Shadermotion5_ToTrack": "Vesturo",
+        "Shadermotion5_ToTrack": "",
         "Shadermotion5ToTrackNote": "VRChat name of the user to track",
 
         "Shadermotion5_Puppet": "0",
