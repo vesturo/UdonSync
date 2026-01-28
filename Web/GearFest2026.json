@@ -9,17 +9,18 @@
 
 
         "Prop_State": "0",
-        "PropStateNote": { "0":"Default", "1":"FCC", "2":"Luxe Nova" },
+        "PropStateNote": { "0":"Disabled", "1":"FCC", "2":"Luxe Nova" },
 
 
         "Shadermotion0_ToTrack": "",
         "Shadermotion0ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion0_Puppet": "0",
+        "Shadermotion0_Puppet": "1",
         "Shadermotion0PuppetNote": {
             "0":"Off",
             "1":"DJ",
-            "2":"Jynx"
+            "2":"Dust Bunny",
+            "3":"Taia"
         },
 
 
@@ -28,8 +29,7 @@
 
         "Shadermotion1_Puppet": "0",
         "Shadermotion1PuppetNote": {
-            "0":"Off",
-            "1":"Lamptid"
+            "0":"Off"
         },
 
 
