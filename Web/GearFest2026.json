@@ -27,41 +27,45 @@
         "Shadermotion1_ToTrack": "",
         "Shadermotion1ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion1_Puppet": "2",
+        "Shadermotion1_Puppet": "3",
         "Shadermotion1PuppetNote": {
             "0":"Off",
             "1":"Freya",
-            "2":"Gaster"
+            "2":"Gaster",
+            "3":"Kio"
         },
 
 
         "Shadermotion2_ToTrack": "",
         "Shadermotion2ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion2_Puppet": "3",
+        "Shadermotion2_Puppet": "4",
         "Shadermotion2PuppetNote": {
             "0":"Off",
             "1":"Livid",
             "2":"Deli",
-            "3":"Fairaday"
+            "3":"Fairaday",
+            "4":"RedRidingHood"
         },
 
 
         "Shadermotion3_ToTrack": "",
         "Shadermotion3ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion3_Puppet": "0",
+        "Shadermotion3_Puppet": "1",
         "Shadermotion3PuppetNote": {
-            "0":"Off"
+            "0":"Off",
+            "1":"Pam"
         },
 
 
         "Shadermotion4_ToTrack": "",
         "Shadermotion4ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion4_Puppet": "0",
+        "Shadermotion4_Puppet": "1",
         "Shadermotion4PuppetNote": {
-            "0":"Off"
+            "0":"Off",
+            "1":"Farron"
         },
 
 
