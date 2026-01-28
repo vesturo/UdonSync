@@ -27,19 +27,23 @@
         "Shadermotion1_ToTrack": "",
         "Shadermotion1ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion1_Puppet": "1",
+        "Shadermotion1_Puppet": "0",
         "Shadermotion1PuppetNote": {
             "0":"Off",
-            "1":"Gaster"
+            "1":"Freya",
+            "2":"Gaster"
         },
 
 
         "Shadermotion2_ToTrack": "",
         "Shadermotion2ToTrackNote": "VRChat name of the user to track",
 
-        "Shadermotion2_Puppet": "0",
+        "Shadermotion2_Puppet": "3",
         "Shadermotion2PuppetNote": {
-            "0":"Off"
+            "0":"Off",
+            "1":"Livid",
+            "2":"Deli",
+            "3":"Fairaday"
         },
 
 
