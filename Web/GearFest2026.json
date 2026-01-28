@@ -4,7 +4,7 @@
         "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
 
-        "World_State": "0", 
+        "World_State": "1", 
         "WorldStateNote": { "0":"DJ", "1":"Live Music" },
 
 
@@ -18,7 +18,8 @@
         "Shadermotion0_Puppet": "0",
         "Shadermotion0PuppetNote": {
             "0":"Off",
-            "1":"Debug"
+            "1":"DJ",
+            "2":"Jynx"
         },
 
 
@@ -27,7 +28,8 @@
 
         "Shadermotion1_Puppet": "0",
         "Shadermotion1PuppetNote": {
-            "0":"Off"
+            "0":"Off",
+            "1":"Lamptid"
         },
 
 
