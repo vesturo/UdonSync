@@ -36,9 +36,9 @@
       "3": "Kio"
     },
 
-    "Shadermotion2_ToTrack": "Livid Leaf",
+    "Shadermotion2_ToTrack": "",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "1",
+    "Shadermotion2_Puppet": "0",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
