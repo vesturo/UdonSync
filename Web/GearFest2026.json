@@ -16,9 +16,9 @@
       "2": "Luxe Nova"
     },
 
-    "Shadermotion0_ToTrack": "",
+    "Shadermotion0_ToTrack": "NovedPlayer",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion0_Puppet": "0",
+    "Shadermotion0_Puppet": "1",
     "Shadermotion0PuppetNote": {
       "0": "Off",
       "1": "DJ",
@@ -26,9 +26,9 @@
       "3": "Taia"
     },
 
-    "Shadermotion1_ToTrack": "",
+    "Shadermotion1_ToTrack": "Freya Sky",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "0",
+    "Shadermotion1_Puppet": "1",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
@@ -36,9 +36,9 @@
       "3": "Kio"
     },
 
-    "Shadermotion2_ToTrack": "",
+    "Shadermotion2_ToTrack": "Livid Leaf",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "0",
+    "Shadermotion2_Puppet": "1",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
