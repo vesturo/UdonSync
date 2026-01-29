@@ -1,6 +1,6 @@
 {
   "WorldConfiguration": {
-    "Multi_Instancing_Bot": "",
+    "Multi_Instancing_Bot": "GroupSync-Red",
     "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
     "World_State": "0",
