@@ -3,7 +3,7 @@
     "Multi_Instancing_Bot": "GroupSync-Red",
     "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
-    "World_State": "1",
+    "World_State": "0",
     "WorldStateNote": {
       "0": "DJ",
       "1": "Live Music"
