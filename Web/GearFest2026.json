@@ -9,11 +9,12 @@
       "1": "Live Music"
     },
 
-    "Prop_State": "0",
+    "Prop_State": "1",
     "PropStateNote": {
       "0": "Disabled",
       "1": "FCC / LN",
-      "2": "Tori Pole"
+      "2": "Disabled + Tori Pole",
+      "3": "Tori Pole"
     },
 
     "Shadermotion0_ToTrack": "",
