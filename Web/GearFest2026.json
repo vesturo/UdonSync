@@ -34,7 +34,7 @@
       "0": "Off",
       "1": "Freya",
       "2": "Gaster",
-      "3":"Tori",
+      "3": "Tori",
       "4": "Diggy Bones",
       "5": "Lamptid"
     },
@@ -46,24 +46,21 @@
       "0": "Off",
       "1": "Livid",
       "2": "Deli",
-      "3": "Fairaday",
-      "4": "RedRidingHood"
+      "3": "Fairaday"
     },
 
     "Shadermotion3_ToTrack": "",
     "Shadermotion3ToTrackNote": "VRChat name of the user to track",
     "Shadermotion3_Puppet": "0",
     "Shadermotion3PuppetNote": {
-      "0": "Off",
-      "1": "Pam"
+      "0": "Off"
     },
 
     "Shadermotion4_ToTrack": "",
     "Shadermotion4ToTrackNote": "VRChat name of the user to track",
     "Shadermotion4_Puppet": "0",
     "Shadermotion4PuppetNote": {
-      "0": "Off",
-      "1": "Farron"
+      "0": "Off"
     },
 
     "Shadermotion5_ToTrack": "",
