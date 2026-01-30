@@ -12,36 +12,30 @@
     "Prop_State": "2",
     "PropStateNote": {
       "0": "Disabled",
-      "1": "FCC / LN",
-      "2": "Disabled + Tori Pole",
-      "3": "Tori Pole"
+      "1": "Tori Pole"
     },
 
     "Shadermotion0_ToTrack": "Bean`",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion0_Puppet": "1",
+    "Shadermotion0_Puppet": "0",
     "Shadermotion0PuppetNote": {
       "0": "Off",
-      "1": "DJ",
-      "2": "Vinny",
-      "3": "Jynxy"
+      "1": "DJ"
     },
 
     "Shadermotion1_ToTrack": "Gaster04",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "2",
+    "Shadermotion1_Puppet": "0",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
       "2": "Gaster",
-      "3": "Tori",
-      "4": "Diggy Bones",
-      "5": "Lamptid"
+      "3": "Tori"
     },
 
     "Shadermotion2_ToTrack": "Delicious Deli",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "2",
+    "Shadermotion2_Puppet": "0",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
