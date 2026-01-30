@@ -29,7 +29,7 @@
 
     "Shadermotion1_ToTrack": "Lamptid",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "5",
+    "Shadermotion1_Puppet": "1",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
