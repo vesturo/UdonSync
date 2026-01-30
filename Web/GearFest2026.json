@@ -39,9 +39,9 @@
       "5": "Lamptid"
     },
 
-    "Shadermotion2_ToTrack": "Techbun",
+    "Shadermotion2_ToTrack": "0",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "3",
+    "Shadermotion2_Puppet": "0",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
