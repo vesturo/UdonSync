@@ -9,7 +9,7 @@
       "1": "Live Music"
     },
 
-    "Prop_State": "2",
+    "Prop_State": "3",
     "PropStateNote": {
       "0": "Disabled",
       "1": "FCC / LN",
@@ -17,7 +17,7 @@
       "3": "Tori Pole"
     },
 
-    "Shadermotion0_ToTrack": "RegenStorm",
+    "Shadermotion0_ToTrack": "twopointzero",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
     "Shadermotion0_Puppet": "1",
     "Shadermotion0PuppetNote": {
@@ -27,9 +27,9 @@
       "3": "Jynxy"
     },
 
-    "Shadermotion1_ToTrack": "Dark~Matter",
+    "Shadermotion1_ToTrack": "Torimaku",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "1",
+    "Shadermotion1_Puppet": "3",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
@@ -39,7 +39,7 @@
       "5": "Lamptid"
     },
 
-    "Shadermotion2_ToTrack": "Fairaday",
+    "Shadermotion2_ToTrack": "Techbun",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
     "Shadermotion2_Puppet": "3",
     "Shadermotion2PuppetNote": {
