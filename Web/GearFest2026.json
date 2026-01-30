@@ -3,7 +3,7 @@
     "Multi_Instancing_Bot": "GroupSync-Red",
     "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
-    "World_State": "0",
+    "World_State": "1",
     "WorldStateNote": {
       "0": "DJ",
       "1": "Live Music"
@@ -17,9 +17,9 @@
       "3": "Tori Pole"
     },
 
-    "Shadermotion0_ToTrack": "-Baphomet",
+    "Shadermotion0_ToTrack": "",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion0_Puppet": "1",
+    "Shadermotion0_Puppet": "0",
     "Shadermotion0PuppetNote": {
       "0": "Off",
       "1": "DJ",
@@ -27,9 +27,9 @@
       "3": "Jynxy"
     },
 
-    "Shadermotion1_ToTrack": "Freya Sky",
+    "Shadermotion1_ToTrack": "",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "1",
+    "Shadermotion1_Puppet": "0",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
@@ -39,9 +39,9 @@
       "5": "Lamptid"
     },
 
-    "Shadermotion2_ToTrack": "Gregorif",
+    "Shadermotion2_ToTrack": "",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "1",
+    "Shadermotion2_Puppet": "0",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
