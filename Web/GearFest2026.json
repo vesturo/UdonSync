@@ -25,9 +25,9 @@
       "3": "Matt Seen it" 
     },
 
-    "Shadermotion1_ToTrack": "Phosphores",
+    "Shadermotion1_ToTrack": "",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "2",
+    "Shadermotion1_Puppet": "0",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
