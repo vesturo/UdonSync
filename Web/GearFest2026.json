@@ -15,7 +15,7 @@
       "1": "Tori Pole"
     },
 
-    "Shadermotion0_ToTrack": "",
+    "Shadermotion0_ToTrack": "Mister Chop",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
     "Shadermotion0_Puppet": "0",
     "Shadermotion0PuppetNote": {
@@ -25,9 +25,9 @@
       "3": "Matt Seen it"
     },
 
-    "Shadermotion1_ToTrack": "",
+    "Shadermotion1_ToTrack": "Gregorif",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "0",
+    "Shadermotion1_Puppet": "3",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
@@ -36,9 +36,9 @@
       "4": "Sam Seen it"
     },
 
-    "Shadermotion2_ToTrack": "",
+    "Shadermotion2_ToTrack": "Delicious Deli",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "0",
+    "Shadermotion2_Puppet": "2",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
