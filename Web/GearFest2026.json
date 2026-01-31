@@ -11,8 +11,10 @@
 
     "Prop_State": "0",
     "PropStateNote": {
-      "0": "Disabled",
-      "1": "Tori Pole"
+      "0": "Disabled LN",
+      "1": "LN Table",
+      "2": "Disabled Pole",
+      "3": "Pole Tori"
     },
 
     "Shadermotion0_ToTrack": "",
