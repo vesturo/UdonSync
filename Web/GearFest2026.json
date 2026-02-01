@@ -9,7 +9,7 @@
       "1": "Live Music"
     },
 
-    "Prop_State": "3",
+    "Prop_State": "2",
     "PropStateNote": {
       "0": "Disabled LN",
       "1": "LN Table",
@@ -17,7 +17,7 @@
       "3": "Pole Tori"
     },
 
-    "Shadermotion0_ToTrack": "Onslaught_Music",
+    "Shadermotion0_ToTrack": "Aural_State",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
     "Shadermotion0_Puppet": "1",
     "Shadermotion0PuppetNote": {
@@ -29,7 +29,7 @@
       "5": "Gayming Skoot"
     },
 
-    "Shadermotion1_ToTrack": "Torimaku",
+    "Shadermotion1_ToTrack": "saint dizzie",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
     "Shadermotion1_Puppet": "3",
     "Shadermotion1PuppetNote": {
@@ -41,9 +41,9 @@
       "5": "LN Dancer 1 - Kitsune /w fans"
     },
 
-    "Shadermotion2_ToTrack": "Fairaday",
+    "Shadermotion2_ToTrack": "Delicious Deli",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "3",
+    "Shadermotion2_Puppet": "2",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
