@@ -17,9 +17,9 @@
       "3": "Pole Tori"
     },
 
-    "Shadermotion0_ToTrack": "monomonet",
+    "Shadermotion0_ToTrack": "Techbun",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion0_Puppet": "1",
+    "Shadermotion0_Puppet": "5",
     "Shadermotion0PuppetNote": {
       "0": "Off",
       "1": "DJ",
@@ -29,9 +29,9 @@
       "5": "Gayming Skoot"
     },
 
-    "Shadermotion1_ToTrack": "saint dizzie",
+    "Shadermotion1_ToTrack": "Necramancy",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "1",
+    "Shadermotion1_Puppet": "4",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
@@ -41,9 +41,9 @@
       "5": "LN Dancer 1 - Kitsune /w fans"
     },
 
-    "Shadermotion2_ToTrack": "Delicious Deli",
+    "Shadermotion2_ToTrack": "JustShane_",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "2",
+    "Shadermotion2_Puppet": "4",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
