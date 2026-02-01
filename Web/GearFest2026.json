@@ -61,9 +61,9 @@
       "1": "LN Dancer 3 - Helena"
     },
 
-    "Shadermotion4_ToTrack": "AmbroBehem",
+    "Shadermotion4_ToTrack": "Athus",
     "Shadermotion4ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion4_Puppet": "0",
+    "Shadermotion4_Puppet": "1",
     "Shadermotion4PuppetNote": {
       "0": "Off",
       "1": "LN Dancer 4 - Helena Alt"
