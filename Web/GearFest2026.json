@@ -9,7 +9,7 @@
       "1": "Live Music"
     },
 
-    "Prop_State": "0",
+    "Prop_State": "2",
     "PropStateNote": {
       "0": "Disabled LN",
       "1": "LN Table",
@@ -29,9 +29,9 @@
       "5": "Gayming Skoot"
     },
 
-    "Shadermotion1_ToTrack": "",
+    "Shadermotion1_ToTrack": "Torimaku",
     "Shadermotion1ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion1_Puppet": "0",
+    "Shadermotion1_Puppet": "3",
     "Shadermotion1PuppetNote": {
       "0": "Off",
       "1": "Freya",
@@ -41,9 +41,9 @@
       "5": "LN Dancer 1 - Kitsune /w fans"
     },
 
-    "Shadermotion2_ToTrack": "",
+    "Shadermotion2_ToTrack": "Fairaday",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion2_Puppet": "0",
+    "Shadermotion2_Puppet": "3",
     "Shadermotion2PuppetNote": {
       "0": "Off",
       "1": "Livid",
