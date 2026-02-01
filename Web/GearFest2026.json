@@ -17,9 +17,9 @@
       "3": "Pole Tori"
     },
 
-    "Shadermotion0_ToTrack": "Techbun",
+    "Shadermotion0_ToTrack": "JustShane_",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
-    "Shadermotion0_Puppet": "5",
+    "Shadermotion0_Puppet": "1",
     "Shadermotion0PuppetNote": {
       "0": "Off",
       "1": "DJ",
@@ -41,7 +41,7 @@
       "5": "LN Dancer 1 - Kitsune /w fans"
     },
 
-    "Shadermotion2_ToTrack": "JustShane_",
+    "Shadermotion2_ToTrack": "Techbun",
     "Shadermotion2ToTrackNote": "VRChat name of the user to track",
     "Shadermotion2_Puppet": "4",
     "Shadermotion2PuppetNote": {
