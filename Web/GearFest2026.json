@@ -3,7 +3,7 @@
     "Multi_Instancing_Bot": "GroupSync-Red",
     "MultiInstancingBotNote": "VRChat name of the bot used for multi-instancing",
 
-    "World_State": "1",
+    "World_State": "0",
     "WorldStateNote": {
       "0": "DJ",
       "1": "Live Music"
@@ -17,7 +17,7 @@
       "3": "Pole Tori"
     },
 
-    "Shadermotion0_ToTrack": "tfmjonny",
+    "Shadermotion0_ToTrack": "Onslaught_Music",
     "Shadermotion0ToTrackNote": "VRChat name of the user to track",
     "Shadermotion0_Puppet": "1",
     "Shadermotion0PuppetNote": {
