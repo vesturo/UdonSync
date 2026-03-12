@@ -1,0 +1,54 @@
+{
+    "WorldUpdater": {
+        "IsOpen": true,
+        "MultiInstanceBot": "",
+        "CameraBot": "",
+        "Puppet1Active": false,
+        "Puppet1User": "",
+        "Puppet1Puppet": 0,
+        "Puppet2Active": false,
+        "Puppet2User": "",
+        "Puppet2Puppet": 0,
+        "Puppet3Active": false,
+        "Puppet3User": "",
+        "Puppet3Puppet": 0,
+        "Announcement": "Your long journey starts soon!",
+        "UpNext": 0,
+        "DJNames": {
+            "0": "The Adventure continues!",
+            "1": "Fallen",
+            "2": "Timboy",
+            "3": "AcChosen",
+            "4": "Clyde Machine"
+        },
+        "ActiveStage": 2,
+        "Stages": {
+            "1": "Moon Deck",
+            "2": "Storage Room"
+        }
+    },
+    "GreenroomAcess": [
+        "Vesturo",
+        "Ari Gold",
+        "AztecAngelo",
+        "HoshPak",
+        "Aquaman56",
+        "MyriadVR",
+        "RedHawks",
+        "~Spades~",
+        "Gaming Skoot",
+        "AyyyyRik",
+        "Firescaw",
+        "GroupSync-Red",
+        "GroupSync-Neo",
+        "Konstintine",
+        "HypnoSparky",
+        "Cyber_tronic",
+        "n0t0",
+        "mojopeg",
+        "Quinnster",
+        "Jessi55xc",
+        "EveningSleepy",
+        "Nyan-Cyan"
+    ]
+}
