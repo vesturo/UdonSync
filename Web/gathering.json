@@ -1,6 +1,6 @@
 {
     "WorldUpdater": {
-        "IsOpen": true,
+        "IsOpen": false,
         "MultiInstanceBot": "",
         "CameraBot": "",
         "Puppet1Active": false,
