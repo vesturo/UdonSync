@@ -2,7 +2,7 @@
     "WorldUpdater": {
         "IsOpen": false,
         "MultiInstanceBot": "",
-        "CameraBot": "",
+        "CameraBot": "skibidi",
         "Puppet1Active": false,
         "Puppet1User": "",
         "Puppet1Puppet": 0,
