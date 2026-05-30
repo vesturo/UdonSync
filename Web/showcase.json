@@ -1,5 +1,5 @@
 {
-  "state": "sunset",
+  "state": "midnight",
   "transitionMinutes": 1,
   "stateOptions": {
     "morning": ["morning", "sunrise", 0],
