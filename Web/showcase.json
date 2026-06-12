@@ -1,7 +1,7 @@
 {
-  "revision": 2,
-  "state": "evening",
-  "transitionMinutes": 2,
+  "revision": 3,
+  "state": "night",
+  "transitionMinutes": 1,
   "stateOptions": {
     "morning": ["morning", "sunrise"],
     "noon": ["noon", "day"],
