@@ -1,38 +1,38 @@
 {
-  "revision": 101,
+  "revision": 102,
   "type": "eventDriven",
 
   "state": "evening",
-  "transitionMinutes": 0.25,
+  "transitionMinutes": 1,
 
   "eventSchedule": [
     {
-      "time": 1781539200,
+      "time": 1781538300,
       "title": "The Auditorium Opens"
     },
     {
-      "time": 1781541000,
+      "time": 1781539200,
       "title": "Test DJ 01 - Blend Starts"
     },
     {
-      "time": 1781541900,
+      "time": 1781540100,
       "title": "Test DJ 02 - 25 Percent"
     },
     {
-      "time": 1781542800,
+      "time": 1781541000,
       "title": "Test DJ 03 - 50 Percent"
     },
     {
-      "time": 1781543700,
+      "time": 1781541900,
       "title": "Test DJ 04 - 75 Percent"
     },
     {
-      "time": 1781544600,
+      "time": 1781542800,
       "title": "Test Final Slot - Fully Night"
     }
   ],
 
-  "eventEndTime": 1781544780,
+  "eventEndTime": 1781543100,
 
   "eventLighting": {
     "enabled": true,
