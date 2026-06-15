@@ -1,75 +1,78 @@
 {
-  "revision": 102,
-  "type": "eventDriven",
-
-  "state": "evening",
-  "transitionMinutes": 1,
-
-  "eventSchedule": [
-    {
-      "time": 1781538300,
-      "title": "The Auditorium Opens"
+    "revision": 1,
+    "type": "eventDriven",
+    "state": "evening",
+    "transitionMinutes": 1,
+    "eventSchedule": [
+        {
+            "time": 1781985600,
+            "title": "The Auditorium Opens"
+        },
+        {
+            "time": 1781989200,
+            "title": "Constapatience"
+        },
+        {
+            "time": 1781992800,
+            "title": "MissStabby"
+        },
+        {
+            "time": 1781996400,
+            "title": "Firescaw"
+        },
+        {
+            "time": 1782000000,
+            "title": "Balyena"
+        },
+        {
+            "time": 1782003600,
+            "title": "Special Guest"
+        }
+    ],
+    "eventEndTime": 1782007200,
+    "eventLighting": {
+        "enabled": true,
+        "startState": "noon",
+        "endState": "night",
+        "blendStartIndex": 1,
+        "fullyEndStateIndex": 5,
+        "listenerMode": "phaseThresholds",
+        "listenerThresholds": [
+            {
+                "phase": 1.0,
+                "state": "noon"
+            },
+            {
+                "phase": 2.0,
+                "state": "evening"
+            },
+            {
+                "phase": 2.7,
+                "state": "night"
+            }
+        ]
     },
-    {
-      "time": 1781539200,
-      "title": "Test DJ 01 - Blend Starts"
+    "typeOptions": {
+        "manual": "uses state",
+        "eventDriven": "schedule drives day / night cycle",
+        "automatic": "based on configured automatic timing"
     },
-    {
-      "time": 1781540100,
-      "title": "Test DJ 02 - 25 Percent"
-    },
-    {
-      "time": 1781541000,
-      "title": "Test DJ 03 - 50 Percent"
-    },
-    {
-      "time": 1781541900,
-      "title": "Test DJ 04 - 75 Percent"
-    },
-    {
-      "time": 1781542800,
-      "title": "Test Final Slot - Fully Night"
+    "stateOptions": {
+        "morning": [
+            "morning",
+            "sunrise"
+        ],
+        "noon": [
+            "noon",
+            "day"
+        ],
+        "evening": [
+            "evening",
+            "sunset"
+        ],
+        "night": [
+            "night",
+            "midnight"
+        ]
     }
-  ],
-
-  "eventEndTime": 1781543100,
-
-  "eventLighting": {
-    "enabled": true,
-
-    "startState": "noon",
-    "endState": "night",
-
-    "blendStartIndex": 1,
-    "fullyEndStateIndex": 5,
-
-    "listenerMode": "phaseThresholds",
-    "listenerThresholds": [
-      {
-        "phase": 1.0,
-        "state": "noon"
-      },
-      {
-        "phase": 2.0,
-        "state": "evening"
-      },
-      {
-        "phase": 2.7,
-        "state": "night"
-      }
-    ]
-  },
-
-  "typeOptions": {
-    "manual": "uses state",
-    "eventDriven": "schedule drives day / night cycle",
-    "automatic": "based on configured automatic timing"
-  },
-
-  "stateOptions": {
-    "morning": ["morning", "sunrise"],
-    "noon": ["noon", "day"],
-    "evening": ["evening", "sunset"],
-    "night": ["night", "midnight"]
-  }
 }
