@@ -1,6 +1,10 @@
 {
   "revision": 1,
   "type": "eventDriven",
+
+  "state": "evening",
+  "transitionMinutes": 1,
+
   "eventSchedule": [
     {
       "time": 1781985600,
@@ -32,20 +36,34 @@
 
   "eventLighting": {
     "enabled": true,
+
     "startState": "noon",
     "endState": "night",
-    "blendStartIndex": 0,
-    "fullyEndStateIndex": 5
+
+    "blendStartIndex": 1,
+    "fullyEndStateIndex": 5,
+
+    "listenerMode": "phaseThresholds",
+    "listenerThresholds": [
+      {
+        "phase": 1.0,
+        "state": "noon"
+      },
+      {
+        "phase": 2.0,
+        "state": "evening"
+      },
+      {
+        "phase": 2.7,
+        "state": "night"
+      }
+    ]
   },
-
-
-  "state": "evening",
-  "transitionMinutes": 1,
 
   "typeOptions": {
     "manual": "uses state",
     "eventDriven": "schedule drives day / night cycle",
-    "automatic": "uses automatic day / night timing"
+    "automatic": "based on configured automatic timing"
   },
 
   "stateOptions": {
