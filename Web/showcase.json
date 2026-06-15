@@ -1,7 +1,53 @@
 {
-  "revision": 4,
+  "revision": 1,
+  "type": "eventDriven",
+
   "state": "evening",
   "transitionMinutes": 1,
+
+  "eventSchedule": [
+    {
+      "time": 1781985600,
+      "title": "The Auditorium Opens"
+    },
+    {
+      "time": 1781989200,
+      "title": "Constapatience"
+    },
+    {
+      "time": 1781992800,
+      "title": "MissStabby"
+    },
+    {
+      "time": 1781996400,
+      "title": "Firescaw"
+    },
+    {
+      "time": 1782000000,
+      "title": "Balyena"
+    },
+    {
+      "time": 1782003600,
+      "title": "Special Guest"
+    }
+  ],
+
+  "eventEndTime": 1782007200,
+
+  "eventLighting": {
+    "enabled": true,
+    "startState": "noon",
+    "endState": "night",
+    "blendStartIndex": 0,
+    "fullyEndStateIndex": 5
+  },
+
+  "typeOptions": {
+    "manual": "uses state",
+    "eventDriven": "schedule drives day / night cycle",
+    "automatic": "uses automatic day / night timing"
+  },
+
   "stateOptions": {
     "morning": ["morning", "sunrise"],
     "noon": ["noon", "day"],
