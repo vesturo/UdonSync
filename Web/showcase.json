@@ -1,38 +1,38 @@
 {
-  "revision": 1,
+  "revision": 101,
   "type": "eventDriven",
 
   "state": "evening",
-  "transitionMinutes": 1,
+  "transitionMinutes": 0.25,
 
   "eventSchedule": [
     {
-      "time": 1781985600,
+      "time": 1781539200,
       "title": "The Auditorium Opens"
     },
     {
-      "time": 1781989200,
-      "title": "Constapatience"
+      "time": 1781541000,
+      "title": "Test DJ 01 - Blend Starts"
     },
     {
-      "time": 1781992800,
-      "title": "MissStabby"
+      "time": 1781541900,
+      "title": "Test DJ 02 - 25 Percent"
     },
     {
-      "time": 1781996400,
-      "title": "Firescaw"
+      "time": 1781542800,
+      "title": "Test DJ 03 - 50 Percent"
     },
     {
-      "time": 1782000000,
-      "title": "Balyena"
+      "time": 1781543700,
+      "title": "Test DJ 04 - 75 Percent"
     },
     {
-      "time": 1782003600,
-      "title": "Special Guest"
+      "time": 1781544600,
+      "title": "Test Final Slot - Fully Night"
     }
   ],
 
-  "eventEndTime": 1782007200,
+  "eventEndTime": 1781544780,
 
   "eventLighting": {
     "enabled": true,
