@@ -1,5 +1,9 @@
 {
     "revision": 1,
+    "decksEnabled": true,
+
+    "platformMode":"dj",
+    
     "type": "eventDriven",
     "state": "evening",
     "transitionMinutes": 1,
