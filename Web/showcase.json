@@ -1,12 +1,12 @@
 {
-    "revision": 2,
+    "revision": 3,
     "decksEnabled": true,
 
     "platformMode":"dj",
     
     "type": "manual",
-    "state": "morning",
-    "transitionMinutes": 1,
+    "state": "night",
+    "transitionMinutes": 5,
     "eventSchedule": [
         {
             "time": 1781985600,
