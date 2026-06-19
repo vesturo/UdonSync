@@ -4,7 +4,7 @@
 
     "platformMode":"dj",
     
-    "type": "eventDriven",
+    "type": "manual",
     "state": "night",
     "transitionMinutes": 1,
     "eventSchedule": [
