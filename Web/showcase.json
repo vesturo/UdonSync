@@ -1,11 +1,11 @@
 {
-    "revision": 5,
+    "revision": 1,
     "decksEnabled": true,
 
     "platformMode":"dj",
     
     "type": "manual",
-    "state": "night",
+    "state": "morning",
     "transitionMinutes": 1,
     "eventSchedule": [
         {
