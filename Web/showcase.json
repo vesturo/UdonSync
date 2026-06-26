@@ -5,8 +5,8 @@
     "platformMode":"dj",
     
     "type": "manual",
-    "state": "morning",
-    "transitionMinutes": 1,
+    "state": "night",
+    "transitionMinutes": 10,
     "eventSchedule": [
         {
             "time": 1781985600,
